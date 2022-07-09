@@ -3,12 +3,5 @@
   "versionCode": 648,
   "versionDes": "本次更新内容:\n1: 修复已知问题\n2: 优化体验\n\n部分手机请手动打开[允许安装未知来源应用][后台启动程序][消息通知]权限",
   "versionForce": true,
-  "link": false,
-  "targetVersionUrl": "https://angcyo.lanzouo.com/iE4V400rwa7c",
-  "versionUrl": "http://angcyo.gitee.io/accautoweb/download?new",
-  "versionType": 1,
-  "packageList": null,
-  "deviceList": null,
-  "debug": false,
-  "inherit": true
+  "versionUrl": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-1.0.apk"
 }
