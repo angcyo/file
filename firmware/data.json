@@ -4,6 +4,10 @@
             "name": "L1-Z_N32_V2.5.2.bin"
         },
         {
+            "name": "L2_HK32_V3.1.2.bin",
+            "enable": true
+        },
+        {
             "name": "L2_HK32_V3.1.3.lpbin",
             "enable": false
         },
