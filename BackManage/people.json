@@ -1,0 +1,32 @@
+[
+    {
+        "phonenumber": "13686453449",
+        "userName": "曹飘",
+        "roleCode": "hwsh",
+        "roleName": "海外售后"
+    },
+    {
+        "phonenumber": "13480882679",
+        "userName": "萧宇良",
+        "roleCode": "gnsh",
+        "roleName": "国内售后"
+    },
+    {
+        "phonenumber": "15016299147",
+        "userName": "郑细丹",
+        "roleCode": "gnsh",
+        "roleName": "国内售后"
+    },
+    {
+        "phonenumber": "13128658427",
+        "userName": "邓宗松",
+        "roleCode": "yfjs",
+        "roleName": "研发技术"
+    },
+    {
+        "phonenumber": "15889735476",
+        "userName": "郭翼飞",
+        "roleCode": "gcpz",
+        "roleName": "工厂品质对接售后"
+    }
+]
