@@ -6,6 +6,14 @@
       "version": 252
     },
     {
+      "name": "L1-Z_N32_8658_V271_0920.bin",
+      "version": 271
+    },
+    {
+      "name": "L1-Z_N32_V253_0920.bin",
+      "version": 253
+    },
+    {
       "name": "L2_HK32_V3.1.1.bin",
       "version": 311,
       "enable": true
@@ -19,6 +27,18 @@
       "name": "L2_HK32_V3.1.3.lpbin",
       "version": 313,
       "enable": false
+    },
+    {
+      "name": "L2_HK32_V314_0920.bin",
+      "version": 314
+    },
+    {
+      "name": "L2_N32_8658_V373_0920.bin",
+      "version": 373
+    },
+    {
+      "name": "L2_N32_V358_0920.bin",
+      "version": 358
     },
     {
       "name": "L2_N32_8658_V3.7.1_220602.lpbin",
@@ -46,11 +66,6 @@
       "version": 5505
     },
     {
-      "name": "L3_N32_DAC_8658_V5513_0924.lpbin",
-      "des": "test",
-      "version": 5513
-    },
-    {
       "name": "L3_YT_V4.0.0.7.bin",
       "version": 4007
     },
@@ -61,6 +76,14 @@
     {
       "name": "L3_YT_V4.0.0.9.bin",
       "version": 4009
+    },
+    {
+      "name": "L3_N32_DAC_8658_V5513_0920.bin",
+      "version": 5513
+    },
+    {
+      "name": "L3_N32_V5508_0920.bin",
+      "version": 5508
     },
     {
       "name": "L4_V1.1_220606.bin",
