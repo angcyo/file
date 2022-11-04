@@ -1,9 +1,9 @@
 {
-  "versionName": "3.3",
-  "versionCode": 8,
+  "versionName": "4.0",
+  "versionCode": 10,
   "versionDes": "本次更新内容:\n1: 意想不到!",
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/KlD9",
-  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-3.3.apk"
+  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-4.0.apk"
 }
