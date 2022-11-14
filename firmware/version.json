@@ -1,9 +1,9 @@
 {
-  "versionName": "4.4",
-  "versionCode": 14,
+  "versionName": "5.0",
+  "versionCode": 50,
   "versionDes": "本次更新内容:\n1: 修复已知问题!",
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/KlD9",
-  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-4.4.apk"
+  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-5.0.apk"
 }
