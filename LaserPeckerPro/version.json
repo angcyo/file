@@ -1,8 +1,8 @@
 {
-  "versionDate": "2022-11-15",
-  "versionName": "5.0.9",
-  "versionCode": 509,
-  "versionDes": "本次更新内容:\n- GCode算法修复!\n- 最大尺寸雕刻\n- 雕刻剩余时长计算\n- 雕刻进度恢复\n- 修复已知问题",
+  "versionDate": "2022-11-16",
+  "versionName": "5.0.10",
+  "versionCode": 510,
+  "versionDes": "本次更新内容:\n- 修复黑白路径算法\n- 新增固件升级\n- 新增在线客服\n- 新增日志上传\n- 调整导入的字体目录",
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc"
