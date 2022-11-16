@@ -1,9 +1,8 @@
 [
-
   {
-    "versionDate": "2022-11-14",
-    "versionName": "5.0.8",
-    "versionCode": 508,
-    "versionDes": "- GCode数据算法修复\n- 蓝牙搜索设备数量过多时, 自动显示过滤菜单"
+    "versionDate": "2022-11-15",
+    "versionName": "5.0.9",
+    "versionCode": 509,
+    "versionDes": "- GCode算法修复\n- 最大尺寸雕刻\n- 雕刻剩余时长计算\n- 雕刻进度恢复\n- 修复已知问题"
   }
 ]
