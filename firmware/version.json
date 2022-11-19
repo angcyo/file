@@ -1,9 +1,9 @@
 {
-  "versionName": "5.2",
-  "versionCode": 52,
+  "versionName": "5.3",
+  "versionCode": 53,
   "versionDes": "本次更新内容:\n1: 修复已知问题!",
   "versionForce": true,
-  "link": true,
+  "link": false,
   "versionUrl": "https://www.pgyer.com/KlD9",
-  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-5.2.apk"
+  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-5.3.apk"
 }
