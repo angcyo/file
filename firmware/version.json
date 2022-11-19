@@ -3,7 +3,7 @@
   "versionCode": 53,
   "versionDes": "本次更新内容:\n1: 修复已知问题!",
   "versionForce": true,
-  "link": false,
+  "link": true,
   "versionUrl": "https://www.pgyer.com/KlD9",
   "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-5.3.apk"
 }
