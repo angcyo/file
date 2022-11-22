@@ -65,7 +65,7 @@
       "version": 4202
     },
     {
-      "name": "L2-YT_V4.0.1.0.lpbin",
+      "name": "L3-YT_V4.0.1.0.lpbin",
       "version": 4010
     },
     {
@@ -86,6 +86,11 @@
     },
     {
       "name": "L3_YT_V4.0.0.9.bin",
+      "enable": "false",
+      "version": 4009
+    },
+    {
+      "name": "L3_YT_V4.0.0.9.lpbin",
       "version": 4009
     },
     {
