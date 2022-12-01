@@ -1,8 +1,8 @@
 {
-  "versionDate": "2022-11-24",
-  "versionName": "5.0.11",
+  "versionDate": "2022-12-1",
+  "versionName": "5.0.12",
   "versionCode": 5011,
-  "versionDes": "本次更新内容:\n- 修复打开素材调用栈的问题\n- 修复黑白算法噪点的问题\n- 单日志文件大小设置为2mb\n- 修复雕刻图层无法切换的bug\n- 修复GCode调整/M04算法\n- 修复版画/印章/抖动算法黑屏问题\n- 新增固件降级(点5下固件版本)\n- 修复GCode填充雕刻线条问题\n- 移除灰度算法\n- 限制外部打开的数据最大5MB\n- 限制传输的数据最大30MB\n- `固件`修复暂停雕刻后,进度丢失\n- 新增雕刻光源/C1模块提示\n- 握笔校准提前到预览之前进行\n- 新增启动动画\n- 文本支持空格",
+  "versionDes": "本次更新内容:\n- 修复虚线旋转GCode算法\n- 优化画布设备bounds绘制位置\n- 优化画布绘制矢量描边边框过细\n- 优化刻度尺绘制算法\n- 调整文本转GCode算法\n- 调整app名称为LaserPercker2\n- 调整app包名为com.hingin.l2.hiprint\n- 优化范围提示框居上显示\n- 调整元素默认位置为中心\n- 新增设备被USB占用提示\n- 新增雕刻历史\n- 新增设备连接成功动画\n- 优化拖拽预览发送指令频率\n- `固件`新增批量雕刻指令\n- 新增设备温度提示`>=60°`",
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc"
