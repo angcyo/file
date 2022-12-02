@@ -1,7 +1,7 @@
 {
   "versionDate": "2022-12-1",
   "versionName": "5.0.12",
-  "versionCode": 5011,
+  "versionCode": 5012,
   "versionDes": "本次更新内容:\n- 新增设备被USB占用提示\n- 新增雕刻历史\n- 新增设备连接成功动画\n- 新增设备温度提示`>=60°`\n- 优化画布设备bounds绘制位置\n- 优化画布绘制矢量描边边框过细\n- 优化刻度尺绘制算法\n- 优化范围提示框居上显示\n- 优化拖拽预览发送指令频率\n- 调整文本转GCode算法\n- 调整app名称为LaserPercker2\n- 调整app包名为com.hingin.l2.hiprint\n- 调整元素默认位置为中心\n- 修复虚线旋转GCode算法\n- `固件`新增批量雕刻指令",
   "versionForce": false,
   "link": true,
