@@ -1,10 +1,10 @@
 {
-  "versionName": "5.5",
-  "versionCode": 55,
+  "versionName": "6.0",
+  "versionCode": 60,
   "versionDes": "本次更新内容:\n1: 修复已知问题!",
   "versionForce": true,
   "link": false,
-  "versionUrl": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-5.5.apk",
+  "versionUrl": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-6.0.apk",
   "versionUrl3": "https://www.pgyer.com/KlD9",
-  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-5.5.apk"
+  "versionUrl2": "https://gitcode.net/angcyo/file/-/raw/master/firmware/FirmwareUpdate-6.0.apk"
 }
