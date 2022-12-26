@@ -1,8 +1,8 @@
 {
-  "versionDate": "2022-12-18",
-  "versionName": "5.0.15",
-  "versionCode": 5015,
-  "versionDes": "本次更新内容:\n- 新增平板适配\n- 新增L4材质参数\n- 新增自定义材质保存\n- 新增L4全部使用批量雕刻指令\n- 新增雕刻中出现异常暂停雕刻\n- 适配Android13 媒体选择\n- 优化字体选择布局样式\n- 修复画板偶然情况下的绘制不全\n- 修复创作设置项持久化\n- 调整L4旋转轴直径在预览之前设置\n- 修复已知问题",
+  "versionDate": "2022-12-26",
+  "versionName": "5.0.16",
+  "versionCode": 5016,
+  "versionDes": "本次更新内容:\n- 新增适配L1`250~299`\n- 新增适配L2`300~399`\n- 新增适配L3`550~599 5500~5599`\n- 新增删除自定义材质\n- 新增`实验性`功能单文件雕刻参数\n- 新增截图分享\n- 优化预览退出\n- 优化字体导入\n- 修复Android13媒体权限",
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc"
