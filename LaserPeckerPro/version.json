@@ -1,8 +1,8 @@
 {
-  "versionDate": "2023-1-7",
-  "versionName": "5.0.19",
-  "versionCode": 5019,
-  "versionDes": "本次更新内容:\n- 新增设备历史/本地历史文档\n- 新增路径填充角度\n- 新增群组功能\n- 优化印章/版画算法\n- 优化画布元素传输后不可编辑\n- 优化材质光源提示\n- 调整L4蓝光材质参数\n- 修复栅格化后无法数据传输",
+  "versionDate": "2023-1-10",
+  "versionName": "5.0.20",
+  "versionCode": 5020,
+  "versionDes": "本次更新内容:\n- 新增`fling`手势支持\n- 新增元素拖拽到画布边缘时自动移动画布\n- 新增最小化预览\n- 优化路径填充功能\n- 优化GCode数据压缩输出\n- 优化编辑锁的状态\n- 优化4个控制图标计算\n- 限制文件打开大小`5MB`\n- 限制文件内容`2W`行\n- 限制文件字符内容大小`1MB`\n- 修复群组可见性/缩放/旋转/复制控制\n- 修复已知问题",
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc"
