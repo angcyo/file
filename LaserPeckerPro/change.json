@@ -3,7 +3,7 @@
     "versionDate": "2023-1-11",
     "versionName": "5.0.21",
     "versionCode": 5021,
-    "versionDes": "本次更新内容:\n- 新增图层锁定\n- 修复合规检查\n- 修复已知问题"
+    "versionDes": "本次更新内容:\n- 新增图层锁定\n- 修复合规检查\n- 修复已知问题\n- 修改App名称`LaserPecker Design Space`\n- 修改App包名`com.hingin.lp1.hiprint`"
   },
   {
     "versionDate": "2023-1-10",
