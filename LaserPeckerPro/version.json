@@ -1,8 +1,8 @@
 {
-  "versionDate": "2023-1-11",
-  "versionName": "5.0.21",
-  "versionCode": 5021,
-  "versionDes": "本次更新内容:\n- 新增图层锁定\n- 新增RN SVG的支持\n- 修复合规检查\n- 修复已知问题\n- 修改App名称`LaserPecker Design Space`\n- 修改App包名`com.hingin.lp1.hiprint`",
+  "versionDate": "2023-1-13",
+  "versionName": "5.0.23",
+  "versionCode": 5023,
+  "versionDes": "本次更新内容:\n- 优化素材选择\n- 修复资源翻译",
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc"
