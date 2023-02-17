@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2023-2-11",
+    "versionName": "5.0.25",
+    "versionCode": 5025,
+    "versionDes": "本次更新内容:\n- 优化保存提示\n- 修复元素缩放操作异常问题\n- 修复预览图丢失问题\n- 修复L2雕刻次数显示\n- 修复SVG导入尺寸计算\n- 调整图片压缩质量为4MB"
+  },
+  {
+    "versionDate": "2023-2-8",
+    "versionName": "5.0.24",
+    "versionCode": 5024,
+    "versionDes": "本次更新内容:\n- 新增图片支持选择svg/gcode\n- 优化`fling`体验\n- 优化多指操作体验\n- 优化预览前添加关机状态判断\n- 修复历史文档指令解析"
+  },
+  {
     "versionDate": "2023-1-13",
     "versionName": "5.0.23",
     "versionCode": 5023,

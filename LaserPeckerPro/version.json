@@ -1,8 +1,8 @@
 {
-  "versionDate": "2023-1-13",
-  "versionName": "5.0.23",
-  "versionCode": 5023,
-  "versionDes": "本次更新内容:\n- 优化素材选择\n- 修复资源翻译",
+  "versionDate": "2023-2-11",
+  "versionName": "5.0.25",
+  "versionCode": 5025,
+  "versionDes": "本次更新内容:\n- 优化保存提示\n- 修复元素缩放操作异常问题\n- 修复预览图丢失问题\n- 修复L2雕刻次数显示\n- 修复SVG导入尺寸计算\n- 调整图片压缩质量为4MB",
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc"
