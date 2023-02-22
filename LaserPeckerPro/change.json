@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-2-22",
+    "versionName": "5.0.26",
+    "versionCode": 5026,
+    "versionDes": "本次更新内容:\n- 新增滑台开关描述提示\n- 新增LX1激光未插好提示\n- 调整蓝牙名称规则\n- 修复数据传输异常"
+  },
+  {
     "versionDate": "2023-2-11",
     "versionName": "5.0.25",
     "versionCode": 5025,
