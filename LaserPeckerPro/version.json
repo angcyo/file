@@ -1,9 +1,9 @@
 {
-  "versionDate": "2023-2-22",
-  "versionName": "5.0.26",
-  "versionCode": 5026,
-  "versionDes": "本次更新内容:\n- 新增滑台开关描述提示\n- 新增LX1激光未插好提示\n- 调整蓝牙名称规则\n- 修复数据传输异常",
   "versionForce": false,
   "link": true,
-  "versionUrl": "https://www.pgyer.com/PNbc"
+  "versionUrl": "https://www.pgyer.com/PNbc",
+  "versionDate": "2023-3-10",
+  "versionName": "5.0.28",
+  "versionCode": 5028,
+  "versionDes": "本次更新内容:\n- 新增固件版本[373~399]时,第三轴的小车模式处理逻辑改成圆柱模式\n- 新增固件版本[374~399]时,软件设备设置界面新增雕刻方向切换开关及其逻辑\n- 调整未选中元素预览时,则自动选择所有有效范围内元素并开始预览\n- 调整LX1 开放批量雕刻指令\n- 调整最大允许雕刻的文件数量为30个\n- 优化GCode解析\n- 优化黑白算法\n- 优化灰度算法\n- 修复雕刻与图层顺序不一致的问题"
 }
