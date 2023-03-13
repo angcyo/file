@@ -97,6 +97,10 @@
     {
       "name": "L3_N32_DAC_V5.5.1.lpbin",
       "version": 551
+    },
+    {
+      "name": "L4_V6.5.0.8.lpbin",
+      "version": 6508
     }
   ]
 }
