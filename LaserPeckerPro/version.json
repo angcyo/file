@@ -2,8 +2,8 @@
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-3-23",
-  "versionName": "5.0.29",
-  "versionCode": 5029,
-  "versionDes": "本次更新内容:\n- 新增蓝牙固件升级界面\n- 新增LP3`[553~599]`固件版本, 需要显示`雕刻方向`控制开关\n- 新增蓝牙名称支持新的命名格式(LP1-x, LP2-x,LX1-x)\n- 新增滑台使能关闭等待\n- 修复LX1 pwr调节\n- 修复LP4 第三轴移除小车模式\n- 修复雕刻数据文件名不生效的问题\n- 调整LP4第三轴无小车模式\n- 调整第三轴(z轴)打开的情况下, 隐藏雕刻方向控制开关"
+  "versionDate": "2023-4-6",
+  "versionName": "5.0.30",
+  "versionCode": 5030,
+  "versionDes": "本次更新内容:\n- 新增日语资源\n- 新增韩语资源\n- 新增动态配置\n- 优化数据索引生成算法\n- 修复图片裁剪问题\n- 调整按钮文本颜色"
 }

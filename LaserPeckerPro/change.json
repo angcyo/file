@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-4-6",
+    "versionName": "5.0.30",
+    "versionCode": 5030,
+    "versionDes": "本次更新内容:\n- 新增日语资源\n- 新增韩语资源\n- 新增动态配置\n- 优化数据索引生成算法\n- 修复图片裁剪问题\n- 调整按钮文本颜色"
+  },
+  {
     "versionDate": "2023-3-23",
     "versionName": "5.0.29",
     "versionCode": 5029,
