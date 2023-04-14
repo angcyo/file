@@ -109,6 +109,10 @@
     {
       "name": "L4_V6.5.0.8.lpbin",
       "version": 6508
+    },
+    {
+      "name": "LP4-V6.5.1.1.lpbin",
+      "version": 6511
     }
   ]
 }
