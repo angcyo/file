@@ -31,6 +31,10 @@
       "version": 314
     },
     {
+      "name": "LP2-V315.lpbin",
+      "version": 315
+    },
+    {
       "name": "L2_N32_8658_V3.7.1_0602.lpbin",
       "version": 371
     },
@@ -43,12 +47,20 @@
       "version": 373
     },
     {
-      "name": "L2_N32_V3.5.8_0920.lpbin",
-      "version": 358
+      "name": "LP2-V374.lpbin",
+      "version": 374
     },
     {
       "name": "L2_N32_V3.5.6.lpbin",
       "version": 356
+    },
+    {
+      "name": "L2_N32_V3.5.8_0920.lpbin",
+      "version": 358
+    },
+    {
+      "name": "LP2-V359.lpbin",
+      "version": 359
     },
     {
       "name": "L2_M_V4201.lpbin",
@@ -91,8 +103,16 @@
       "version": 5508
     },
     {
+      "name": "LP3-V5509.lpbin",
+      "version": 5509
+    },
+    {
       "name": "L3_N32_DAC_8658_V5.5.1.3_0924.lpbin",
       "version": 5513
+    },
+    {
+      "name": "LP3-V5514.lpbin",
+      "version": 5514
     },
     {
       "name": "L3_N32_DAC_V5.5.0.lpbin",
@@ -107,11 +127,20 @@
       "version": 554
     },
     {
+      "name": "LP3-S-V554.lpbin",
+      "version": 554
+    },
+    {
       "name": "L4_V6.5.0.8.lpbin",
       "version": 6508
     },
     {
       "name": "LP4-V6.5.1.1.lpbin",
+      "enable": false,
+      "version": 6511
+    },
+    {
+      "name": "LP4-V6511.lpbin",
       "version": 6511
     }
   ]
