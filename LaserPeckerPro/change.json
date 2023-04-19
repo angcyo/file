@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-4-19",
+    "versionName": "5.2.0",
+    "versionCode": 5201,
+    "versionDes": "本次更新内容:\n- 全新的编辑/渲染架构\n- 全新的项目文件结构\n- 全新的算法处理\n- 全新的材质参数对照表\n- 新增位置微调控制\n- 新增切割图层\n- 新增支持多选图片\n- 修复Android13打开蓝牙\n- 修复已知问题"
+  },
+  {
     "versionDate": "2023-4-6",
     "versionName": "5.0.30",
     "versionCode": 5030,
