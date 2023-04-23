@@ -2,8 +2,8 @@
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-4-19",
-  "versionName": "5.2.0",
-  "versionCode": 5201,
-  "versionDes": "本次更新内容:\n- 全新的编辑/渲染架构\n- 全新的项目文件结构\n- 全新的算法处理\n- 全新的材质参数对照表\n- 新增位置微调控制\n- 新增切割图层\n- 新增支持多选图片\n- 修复Android13打开蓝牙\n- 修复已知问题"
+  "versionDate": "2023-4-23",
+  "versionName": "5.2.2",
+  "versionCode": 5202,
+  "versionDes": "本次更新内容:\n- 新增删除机器所有历史\n- 新增材质参数表字间距参数\n- 新增材质参数表指定功率/深度\n- 新增材质参数表切割图层\n- 新增涂鸦AI绘图\n- 优化渲染方法\n- 优化雕刻图层状态保持\n- 优化群组名称\n- 优化工程恢复\n- 优化数据索引生成算法\n- 优化打开文件的类型判断\n- 修复抖动数据宽高计算问题"
 }
