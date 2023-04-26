@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-4-26",
+    "versionName": "5.2.3",
+    "versionCode": 5203,
+    "versionDes": "本次更新内容:\n- 适配机型LP2/LP3/LX1\n- 修复已知问题"
+  },
+  {
     "versionDate": "2023-4-23",
     "versionName": "5.2.2",
     "versionCode": 5202,
