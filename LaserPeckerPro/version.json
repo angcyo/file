@@ -2,8 +2,8 @@
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-4-27",
-  "versionName": "5.2.4",
-  "versionCode": 5204,
-  "versionDes": "本次更新内容:\n- 新增Banner自适应机型\n- 修复SVG解析\n- 调整支架精度\n- 修复其它已知问题"
+  "versionDate": "2023-4-28",
+  "versionName": "5.2.5",
+  "versionCode": 5205,
+  "versionDes": "本次更新内容:\n- 新增LX1校准动画\n- 优化参数推荐表\n- 优化平板界面\n- 修复自定义材质\n- 修复切割图层\n- 修复已知问题"
 }
