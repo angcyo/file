@@ -2,8 +2,8 @@
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-4-28",
-  "versionName": "5.2.5",
-  "versionCode": 5205,
-  "versionDes": "本次更新内容:\n- 新增LX1校准动画\n- 优化参数推荐表\n- 优化平板界面\n- 修复自定义材质\n- 修复切割图层\n- 修复已知问题"
+  "versionDate": "2023-5-5",
+  "versionName": "5.2.6",
+  "versionCode": 5206,
+  "versionDes": "本次更新内容:\n- 新增微调控制旋转/居中操作\n- 新增`自由模式`免责声明\n- 新增`非安全状态`检查\n- 调整图片首次添加使用自动黑白阈值\n- 修复支架控制"
 }
