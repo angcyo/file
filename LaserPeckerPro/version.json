@@ -2,8 +2,8 @@
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-5-5",
-  "versionName": "5.2.6",
-  "versionCode": 5206,
-  "versionDes": "本次更新内容:\n- 新增微调控制旋转/居中操作\n- 新增`自由模式`免责声明\n- 新增`非安全状态`检查\n- 调整图片首次添加使用自动黑白阈值\n- 修复支架控制"
+  "versionDate": "2023-5-9",
+  "versionName": "5.2.7",
+  "versionCode": 5207,
+  "versionDes": "本次更新内容:\n- 新增自定义`字体`导出\n- 新增`导入字体`支持多选\n- 新增雕刻参数使用`图标`显示\n- 新增参数表次数设置\n- 新增预览中杀掉app自动退出\n- 优化裁剪后处理\n- 优化图片类型识别\n- 调整默认第三方打开文件大小限制`50MB`\n- 修复历史文档大小显示\n- 修复阈值数值恢复\n- 修复已知问题"
 }
