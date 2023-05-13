@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-5-13",
+    "versionName": "5.3.0",
+    "versionCode": 5300,
+    "versionDes": "本次更新内容:\n- 新增自定义材质参数云端存储\n- 新增字体云端存储\n- 新增工程云端存储\n- 新增批量导出导入字体\n- 优化参数表打印次数规则\n- 优化GCode文件后缀判断\n- 调整温度显示阈值\n- 修复版画算法"
+  },
+  {
     "versionDate": "2023-5-10",
     "versionName": "5.2.7",
     "versionCode": 5207,
