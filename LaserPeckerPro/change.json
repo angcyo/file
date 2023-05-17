@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-5-17",
+    "versionName": "5.3.1",
+    "versionCode": 5301,
+    "versionDes": "本次更新内容:\n- 新增SVG导入分组功能\n- 新增站内视频播放\n- 优化数据同步\n- 修复已知问题"
+  },
+  {
     "versionDate": "2023-5-13",
     "versionName": "5.3.0",
     "versionCode": 5300,
