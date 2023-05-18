@@ -1,9 +1,9 @@
 [
   {
     "versionDate": "2023-5-18",
-    "versionName": "5.3.2",
-    "versionCode": 5302,
-    "versionDes": "本次更新内容:\n- 修复SVG解析\n- 修复对齐功能"
+    "versionName": "5.3.3",
+    "versionCode": 5303,
+    "versionDes": "本次更新内容:\n- 修复SVG解析\n- 修复对齐功能\n- 修复系统字体同步"
   },
   {
     "versionDate": "2023-5-17",
