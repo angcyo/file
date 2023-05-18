@@ -2,8 +2,8 @@
   "versionForce": false,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-5-17",
-  "versionName": "5.3.1",
-  "versionCode": 5301,
-  "versionDes": "本次更新内容:\n- 新增SVG导入分组功能\n- 新增站内视频播放\n- 优化数据同步\n- 修复已知问题"
+  "versionDate": "2023-5-18",
+  "versionName": "5.3.2",
+  "versionCode": 5302,
+  "versionDes": "本次更新内容:\n- 修复SVG解析\n- 修复对齐功能"
 }
