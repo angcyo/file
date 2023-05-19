@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-5-19",
+    "versionName": "5.3.4",
+    "versionCode": 5304,
+    "versionDes": "本次更新内容:\n- 新增语种`德西法繁`\n- 新增RN App更新提示\n- 调整`LX1`图片图层仅支持`1K`"
+  },
+  {
     "versionDate": "2023-5-18",
     "versionName": "5.3.3",
     "versionCode": 5303,
