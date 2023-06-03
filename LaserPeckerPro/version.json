@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-5-19",
-  "versionName": "5.3.4",
-  "versionCode": 5304,
-  "versionDes": "本次更新内容:\n- 新增语种`德西法繁`\n- 新增RN App更新提示\n- 调整`LX1`图片图层仅支持`1K`\n- 修复SVG解析\n- 修复对齐功能\n- 修复系统字体同步"
+  "versionDate": "2023-6-3",
+  "versionName": "5.3.5",
+  "versionCode": 5305,
+  "versionDes": "本次更新内容:\n- 新增坐标尺元素大小提示\n- 新增曲线文本\n- 新增LP4开放切割图层\n- 新增魔术橡皮\n- 新增路径布尔运算\n- 新增图片轮廓提取\n- 新增8国语言资源\n- 优化GCode数据生成\n- 优化`版画` `抖动`算法(支持32位cpu)\n- 优化`线条`缩放调整\n- 修复填充数据生成"
 }
