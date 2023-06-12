@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-6-12",
+    "versionName": "5.3.7",
+    "versionCode": 5307,
+    "versionDes": "本次更新内容:\n- 优化智能提示判断逻辑\n- 修复切割图层判断逻辑\n- 修复已知问题"
+  },
+  {
     "versionDate": "2023-6-6",
     "versionName": "5.3.6",
     "versionCode": 5306,

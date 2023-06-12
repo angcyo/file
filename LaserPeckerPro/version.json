@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-6-6",
-  "versionName": "5.3.6",
-  "versionCode": 5306,
-  "versionDes": "本次更新内容:\n- 优化反色提示布局\n- 修复RN无法登录问题\n- 修复轮廓提取位置偏移\n- 修复曲线文本包裹不全问题\n- 修复魔术橡皮越界问题"
+  "versionDate": "2023-6-12",
+  "versionName": "5.3.7",
+  "versionCode": 5307,
+  "versionDes": "本次更新内容:\n- 优化智能提示判断逻辑\n- 修复切割图层判断逻辑\n- 修复已知问题"
 }
