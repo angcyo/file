@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-6-12",
-  "versionName": "5.3.7",
-  "versionCode": 5307,
-  "versionDes": "本次更新内容:\n- 优化智能提示判断逻辑\n- 修复切割图层判断逻辑\n- 修复已知问题"
+  "versionDate": "2023-6-13",
+  "versionName": "5.3.8",
+  "versionCode": 5308,
+  "versionDes": "本次更新内容:\n- 新增画笔模块数据偏移设置\n- 修复GCode数据生成"
 }
