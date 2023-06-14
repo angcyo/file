@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-6-13",
-  "versionName": "5.3.8",
-  "versionCode": 5308,
-  "versionDes": "本次更新内容:\n- 新增画笔模块数据偏移设置\n- 修复GCode数据生成"
+  "versionDate": "2023-6-14",
+  "versionName": "5.3.1-alpha1",
+  "versionCode": 5310,
+  "versionDes": "本次更新内容:\n- 新增我的创作排序/过滤\n- 修复dpi显示\n- 优化临时工程存储方式"
 }
