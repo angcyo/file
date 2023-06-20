@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-6-14",
-  "versionName": "5.3.1-alpha1",
-  "versionCode": 5310,
-  "versionDes": "本次更新内容:\n- 新增我的创作排序/过滤\n- 修复dpi显示\n- 优化临时工程存储方式"
+  "versionDate": "2023-6-19",
+  "versionName": "5.3.2-alpha1",
+  "versionCode": 5312,
+  "versionDes": "本次更新内容:\n- 新增键盘输入正负值切换\n- 新增深色主题适配\n- 优化魔术橡皮体验\n- 调整栅格化底色为白色\n- 调整svg导入分组逻辑判断\n- 修复轮廓元素图层\n- 修复分辨率列表数据异常"
 }
