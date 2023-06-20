@@ -3,5 +3,5 @@
 
 AppJs.sleep(1000);
 AppJs.hideScriptRunTipDialog();
-AppJs.sleep(300);
+//AppJs.sleep(300);
 AppJs.showReceiveCode();
