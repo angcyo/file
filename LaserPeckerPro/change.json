@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-7-5",
+    "versionName": "5.3.2-alpha4",
+    "versionCode": 5316,
+    "versionDes": "本次更新内容:\n- 新增备用接口\n- 调整配色"
+  },
+  {
     "versionDate": "2023-6-27",
     "versionName": "5.3.2-alpha3",
     "versionCode": 5315,
