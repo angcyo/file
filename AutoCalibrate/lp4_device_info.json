@@ -1,0 +1,18 @@
+{
+  "width": 160,
+  "height": 120,
+  "startPhyX": 0,
+  "startPhyY": 20,
+  "centerX": 8192,
+  "centerY": 8192,
+  "focalDistance": 170,
+  "precision": 0.01,
+  "adjustStartX": 192,
+  "adjustEndX": 16192,
+  "adjustStartY": 192,
+  "adjustEndY": 16192,
+  "adjustMinX": 0,
+  "adjustMaxX": 16384,
+  "adjustMinY": 0,
+  "adjustMaxY": 16384
+}
