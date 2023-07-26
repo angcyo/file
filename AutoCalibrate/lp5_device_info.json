@@ -1,8 +1,8 @@
 {
-  "width": 160,
-  "height": 120,
-  "startPhyX": 0,
-  "startPhyY": 20,
+  "width": 120,
+  "height": 160,
+  "startPhyX": 20,
+  "startPhyY": 0,
   "centerX": 8192,
   "centerY": 8192,
   "focalDistance": 130,
@@ -15,6 +15,6 @@
   "adjustMaxX": 16384,
   "adjustMinY": 0,
   "adjustMaxY": 16384,
-  "sampleGridRowCount": 13,
-  "sampleGridColumnCount": 17
+  "sampleGridRowCount": 17,
+  "sampleGridColumnCount": 13
 }
