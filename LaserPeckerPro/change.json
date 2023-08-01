@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-8-1",
+    "versionName": "5.3.3-alpha2",
+    "versionCode": 5331,
+    "versionDes": "本次更新内容:\n- 修复dpi异常"
+  },
+  {
     "versionDate": "2023-7-29",
     "versionName": "5.3.3-alpha1",
     "versionCode": 5330,
