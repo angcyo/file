@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-8-4",
+    "versionName": "5.3.3-alpha3",
+    "versionCode": 5333,
+    "versionDes": "本次更新内容:\n- 新增LP5配网\n- 修复轮廓负值偏移\n- 修复图片转GCode后反转算法大小异常\n- 修复工程同步异常"
+  },
+  {
     "versionDate": "2023-8-1",
     "versionName": "5.3.3-alpha2",
     "versionCode": 5331,
