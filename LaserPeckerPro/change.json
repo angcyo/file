@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-8-8",
+    "versionName": "5.3.3-alpha4",
+    "versionCode": 5334,
+    "versionDes": "本次更新内容:\n- 修复元素从不可见位置撤销到可见位置异常\n- 修复图片裁剪后撤销异常\n- 调整路径填充后不允许合并数据\n- 优化矢量描边栅格化线宽"
+  },
+  {
     "versionDate": "2023-8-4",
     "versionName": "5.3.3-alpha3",
     "versionCode": 5333,
