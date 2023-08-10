@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-8-9",
-  "versionName": "5.3.3-alpha5",
-  "versionCode": 5335,
-  "versionDes": "本次更新内容:\n- 支持双向字符序列文本绘制\n- 修复图片转路径算法\n- 优化部分rtl布局"
+  "versionDate": "2023-8-10",
+  "versionName": "5.3.3-alpha6",
+  "versionCode": 5336,
+  "versionDes": "本次更新内容:\n- 优化单文件参数设置\n- 优化PCT隐藏选择体验\n- 修复元素缩放limit异常"
 }
