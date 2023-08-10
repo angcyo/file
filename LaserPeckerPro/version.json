@@ -5,5 +5,5 @@
   "versionDate": "2023-8-10",
   "versionName": "5.3.3-alpha6",
   "versionCode": 5336,
-  "versionDes": "本次更新内容:\n- 优化单文件参数设置\n- 优化PCT隐藏选择体验\n- 修复元素缩放limit异常"
+  "versionDes": "本次更新内容:\n- 优化单文件参数设置\n- 优化PCT隐藏选择体验\n- 开放切割图层设置\n- 修复元素缩放limit异常"
 }
