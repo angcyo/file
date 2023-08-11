@@ -1,9 +1,9 @@
 [
   {
     "versionDate": "2023-8-11",
-    "versionName": "5.3.3-alpha8",
-    "versionCode": 5338,
-    "versionDes": "本次更新内容:\n- 修复LX1材质推荐逻辑"
+    "versionName": "5.3.3-alpha9",
+    "versionCode": 5339,
+    "versionDes": "本次更新内容:\n- 修复LX1材质推荐逻辑\n- 优化小尺寸缩放体验\n- 优化反向缩放体验"
   },
   {
     "versionDate": "2023-8-10",
