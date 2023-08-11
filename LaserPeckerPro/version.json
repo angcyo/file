@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-8-10",
-  "versionName": "5.3.3-alpha7",
-  "versionCode": 5337,
-  "versionDes": "本次更新内容:\n- 优化单文件参数设置\n- 优化PCT隐藏选择体验\n- 开放切割图层设置\n- 修复元素缩放limit异常\n- 修复切割图层转其他图层异常"
+  "versionDate": "2023-8-11",
+  "versionName": "5.3.3-alpha8",
+  "versionCode": 5338,
+  "versionDes": "本次更新内容:\n- 修复LX1材质推荐逻辑"
 }
