@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-8-11",
-  "versionName": "5.3.3-alpha9",
-  "versionCode": 5339,
-  "versionDes": "本次更新内容:\n- 修复LX1材质推荐逻辑\n- 优化小尺寸缩放体验\n- 优化反向缩放体验"
+  "versionDate": "2023-8-21",
+  "versionName": "5.3.4-alpha1",
+  "versionCode": 5340,
+  "versionDes": "本次更新内容:\n- 优化曲线文本支持文本全属性\n- 优化LP系列拖动预览体验\n- 优化智能推荐触发时机体验\n- 优化固件升级红点提示\n- 开放实验性功能\n- 开放路径填充功能\n- 修复pct LX切割\n- 修复pct分辨率提示异常\n- 修复布尔运算异常\n- 修复删除材质逻辑"
 }
