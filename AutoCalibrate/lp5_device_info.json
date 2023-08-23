@@ -17,5 +17,6 @@
   "adjustMinY": 0,
   "adjustMaxY": 16384,
   "sampleGridRowCount": 17,
-  "sampleGridColumnCount": 13
+  "sampleGridColumnCount": 13,
+  "showSaveFocus": true
 }
