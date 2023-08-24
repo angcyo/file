@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-8-24",
+    "versionName": "5.3.4-alpha2",
+    "versionCode": 5342,
+    "versionDes": "本次更新内容:\n- 优化外设预览体验\n- 修复已知问题"
+  },
+  {
     "versionDate": "2023-8-21",
     "versionName": "5.3.4-alpha1",
     "versionCode": 5340,
