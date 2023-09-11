@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-9-11",
+    "versionName": "5.3.5-alpha1",
+    "versionCode": 5351,
+    "versionDes": "本次更新内容:\n- 新增变量模板\n- 新增变量模板持续雕刻\n- 新增快捷操作\n- 新增图层雕刻进度提示\n- 新增等宽高分布\n- 优化部分操作体验"
+  },
+  {
     "versionDate": "2023-8-24",
     "versionName": "5.3.4-alpha2",
     "versionCode": 5342,
