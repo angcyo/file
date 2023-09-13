@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-9-13",
+    "versionName": "5.3.5-alpha2",
+    "versionCode": 5352,
+    "versionDes": "本次更新内容:\n- 新增pdf格式文件的图片形式打开\n- 新增变量模板条形码/二维码默认预览\n- 新增变量模板退出提示\n- 新增变量模板条形码文本属性调整\n- 调整变量模板拖拽样式\n- 调整变量模板ui样式"
+  },
+  {
     "versionDate": "2023-9-11",
     "versionName": "5.3.5-alpha1",
     "versionCode": 5351,
