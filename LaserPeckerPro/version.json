@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-9-13",
-  "versionName": "5.3.5-alpha2",
-  "versionCode": 5352,
-  "versionDes": "本次更新内容:\n- 新增pdf格式文件的图片形式打开\n- 新增变量模板条形码/二维码默认预览\n- 新增变量模板退出提示\n- 新增变量模板条形码文本属性调整\n- 调整变量模板拖拽样式\n- 调整变量模板ui样式"
+  "versionDate": "2023-9-14",
+  "versionName": "5.3.5-alpha3",
+  "versionCode": 5353,
+  "versionDes": "本次更新内容:\n- 新增相册内打开pdf文件\n- 新增旋转轴帮助文档\n- 修复已知问题"
 }
