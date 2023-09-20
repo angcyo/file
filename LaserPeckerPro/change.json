@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-9-20",
+    "versionName": "5.3.6-alpha1",
+    "versionCode": 5361,
+    "versionDes": "本次更新内容:\n- 新增U盘数据格式导出\n- 开放LP2/LP3旋转轴/滑台/滑台多文件设置\n- 优化变量模板文件配置\n- 优化条形码规则不匹配提示\n- 修复周长inch单位显示\n- 调整条形码可选类型"
+  },
+  {
     "versionDate": "2023-9-15",
     "versionName": "5.3.5-alpha4",
     "versionCode": 5354,
