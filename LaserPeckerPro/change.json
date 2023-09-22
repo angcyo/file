@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-9-22",
+    "versionName": "5.3.6-alpha2",
+    "versionCode": 5362,
+    "versionDes": "本次更新内容:\n- 优化气泵参数推荐\n- 新增外设帮助文档\n- 优化路径填充\n- 暗色模式适配\n- 修复持续雕刻数据越界\n- 修复inch单位显示\n- 修复已知问题\n- 兼容部分xcs格式"
+  },
+  {
     "versionDate": "2023-9-20",
     "versionName": "5.3.6-alpha1",
     "versionCode": 5361,
