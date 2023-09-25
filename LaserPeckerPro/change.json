@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-9-25",
+    "versionName": "5.3.6-alpha3",
+    "versionCode": 5363,
+    "versionDes": "本次更新内容:\n- 新增导出数据到Usb OTG设备\n- 新增GCode切割算法(螺旋算法)\n- 优化pct体验\n- 修复部分设置开关异常\n- 修复气泵参数配置\n- 修复LX1速度对照表\n- 添加GCode自动激光配置\n- 优化材质dpi匹配逻辑"
+  },
+  {
     "versionDate": "2023-9-22",
     "versionName": "5.3.6-alpha2",
     "versionCode": 5362,
