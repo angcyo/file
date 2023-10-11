@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-9-25",
-  "versionName": "5.3.6-alpha3",
-  "versionCode": 5363,
-  "versionDes": "本次更新内容:\n- 新增导出数据到Usb OTG设备\n- 新增GCode切割算法(螺旋算法)\n- 优化pct体验\n- 修复部分设置开关异常\n- 修复气泵参数配置\n- 修复LX1速度对照表\n- 添加GCode自动激光配置\n- 优化材质dpi匹配逻辑"
+  "versionDate": "2023-10-8",
+  "versionName": "5.3.6-alpha4",
+  "versionCode": 5364,
+  "versionDes": "本次更新内容:\n- 新增2D浮雕算法\n- 优化变量文本雕刻完的控制\n- 优化变量日期/时间文本的更新时机\n- 优化帮助文档入口,配置了才显示\n- 修复英寸单位下周长输入问题\n- 调整历史输入布局样式"
 }
