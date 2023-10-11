@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-10-11",
+    "versionName": "5.3.6-alpha5",
+    "versionCode": 5365,
+    "versionDes": "本次更新内容:\n- 优化画布设置暗色适配\n- 修复LX1加速级别-1的情况\n- 修复抖动反色再橡皮擦处理后的显示异常\n- 修复部分svg标签解析"
+  },
+  {
     "versionDate": "2023-10-8",
     "versionName": "5.3.6-alpha4",
     "versionCode": 5364,

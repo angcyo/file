@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-10-8",
-  "versionName": "5.3.6-alpha4",
-  "versionCode": 5364,
-  "versionDes": "本次更新内容:\n- 新增2D浮雕算法\n- 优化变量文本雕刻完的控制\n- 优化变量日期/时间文本的更新时机\n- 优化帮助文档入口,配置了才显示\n- 修复英寸单位下周长输入问题\n- 调整历史输入布局样式"
+  "versionDate": "2023-10-11",
+  "versionName": "5.3.6-alpha5",
+  "versionCode": 5365,
+  "versionDes": "本次更新内容:\n- 优化画布设置暗色适配\n- 修复LX1加速级别-1的情况\n- 修复抖动反色再橡皮擦处理后的显示异常\n- 修复部分svg标签解析"
 }
