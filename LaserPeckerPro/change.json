@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-10-25",
+    "versionName": "5.3.7-alpha1",
+    "versionCode": 5371,
+    "versionDes": "本次更新内容:\n- 支持svg 1:1尺寸导入\n- 支持svg中的image标签解析\n- 优化路径转GCode采样精度\n- 修复svg中的transform属性解析\n- 修复svg中的width/height属性解析\n- 修复云端存储入库逻辑问题\n- 修复清理缓存后的工程同步问题\n- 修复图片转GCode后恢复成图片的问题\n- 修复工程同步文件名异常"
+  },
+  {
     "versionDate": "2023-10-13",
     "versionName": "5.3.6-alpha6",
     "versionCode": 5366,
