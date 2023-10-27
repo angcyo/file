@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-10-27",
+    "versionName": "5.3.7-alpha2",
+    "versionCode": 5372,
+    "versionDes": "本次更新内容:\n- 新增位图临摹功能\n- 支持svg `width` `height`属性的单位\n- 支持从社区打开`.lp2`文件\n- 新增矢量合并操作"
+  },
+  {
     "versionDate": "2023-10-25",
     "versionName": "5.3.7-alpha1",
     "versionCode": 5371,
