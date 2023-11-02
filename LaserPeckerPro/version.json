@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-10-27",
-  "versionName": "5.3.7-alpha2",
-  "versionCode": 5372,
-  "versionDes": "本次更新内容:\n- 新增位图临摹功能\n- 支持svg `width` `height`属性的单位\n- 支持从社区打开`.lp2`文件\n- 新增矢量合并操作"
+  "versionDate": "2023-11-2",
+  "versionName": "5.3.7-alpha3",
+  "versionCode": 5373,
+  "versionDes": "本次更新内容:\n- 新增`lp5`激光出光功率调节\n- 新增`PCT`最小阈值设置\n- 支持社区打开`.txt`文件类型\n- 支持svg `g`标签\n- 适配`lp5`雕刻索引和预热\n- 优化svg合并体验\n- 修复路径合并输出数据异常"
 }
