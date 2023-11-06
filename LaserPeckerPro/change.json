@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-11-6",
+    "versionName": "5.3.7-alpha4",
+    "versionCode": 5374,
+    "versionDes": "本次更新内容:\n- 新增`功率/深度`图标的提示\n- 修复`svg` `m`指令异常\n- 调整新抖动算法\n- 调整切片算法\n- 调整图片转GCode支持自动激光"
+  },
+  {
     "versionDate": "2023-11-2",
     "versionName": "5.3.7-alpha3",
     "versionCode": 5373,
