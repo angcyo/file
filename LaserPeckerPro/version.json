@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-11-16",
-  "versionName": "5.3.7-alpha5",
-  "versionCode": 5375,
-  "versionDes": "本次更新内容:\n- 新增`PCT`适配`lx1`加速级别\n- 新增`PCT`图片选择\n- 新增`lp5`大速度值输入\n- 支持`GCode`公差采样算法\n- 优化`出光功率`参数设置\n- 优化`lx1`握笔模块下的雕刻速度显示\n- 优化`lp3`滑台多文件雕刻提示框\n- 优化外设状态提示语"
+  "versionDate": "2023-11-18",
+  "versionName": "5.3.7-alpha6",
+  "versionCode": 5376,
+  "versionDes": "本次更新内容:\n- 新增6种抖动算法测试\n- 优化图层Tab选中样式\n- 优化大速度测试"
 }
