@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-11-18",
-  "versionName": "5.3.7-alpha6",
-  "versionCode": 5376,
-  "versionDes": "本次更新内容:\n- 新增6种抖动算法测试\n- 优化图层Tab选中样式\n- 优化大速度测试"
+  "versionDate": "2023-11-28",
+  "versionName": "5.3.7-alpha7",
+  "versionCode": 5377,
+  "versionDes": "本次更新内容:\n- 新增新手指引\n- 修复已知问题"
 }
