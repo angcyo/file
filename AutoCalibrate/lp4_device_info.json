@@ -16,6 +16,10 @@
   "adjustMaxX": 16384,
   "adjustMinY": 0,
   "adjustMaxY": 16384,
+  "sampleXMax": 80,
+  "sampleYMax": 60,
+  "sampleXStep": 10,
+  "sampleYStep": 10,
   "sampleGridRowCount": 13,
   "sampleGridColumnCount": 17
 }
