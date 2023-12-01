@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-12-1",
+    "versionName": "5.3.7-alpha8",
+    "versionCode": 5378,
+    "versionDes": "本次更新内容:\n- 支持公差配置\n- 优化wifi列表选项逻辑\n- 修复SVG线条路径解析\n- 修复已知问题"
+  },
+  {
     "versionDate": "2023-11-28",
     "versionName": "5.3.7-alpha7",
     "versionCode": 5377,
