@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-12-1",
-  "versionName": "5.3.7-alpha8",
-  "versionCode": 5378,
-  "versionDes": "本次更新内容:\n- 支持公差配置\n- 优化wifi列表选项逻辑\n- 修复SVG线条路径解析\n- 修复已知问题"
+  "versionDate": "2023-12-5",
+  "versionName": "5.3.7-alpha9",
+  "versionCode": 5379,
+  "versionDes": "本次更新内容:\n- 新增材料测试阵列\n- 新增`pct`支持`出光频率`调节\n- 新增`键盘输入`调节\n- 替换翻译资源\n- 图片转GCode支持0x30数据\n- 调整引导完成页面样式\n- 支持负数温度\n- 修复切片高度显示异常\n- 修复svg`line`标签解析"
 }
