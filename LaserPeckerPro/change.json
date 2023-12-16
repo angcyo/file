@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2023-12-16",
+    "versionName": "5.3.7-alpha10",
+    "versionCode": 5380,
+    "versionDes": "本次更新内容:\n- 新增`切片浮雕`支持支架自动回升\n- 新增`切片浮雕`支持循环数据指令\n- 新增`LP5`固件升级数据`CRC16`校验\n- 修复svg`line`解析问题\n- 修复线条无法编辑高度\n- 部分翻译资源替换\n- 部分样式调整"
+  },
+  {
     "versionDate": "2023-12-5",
     "versionName": "5.3.7-alpha9",
     "versionCode": 5379,
