@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-12-19",
-  "versionName": "5.3.7-alpha11",
-  "versionCode": 53711,
-  "versionDes": "本次更新内容:\n- 新增`655`固件速度转换计算\n- 新增`活动弹窗`推送\n- 新增打开在线`lp2`文件\n- 修复`lp2`文件恢复问题"
+  "versionDate": "2023-12-26",
+  "versionName": "5.3.7-alpha12",
+  "versionCode": 53712,
+  "versionDes": "本次更新内容:\n- 支持`U盘`文件删除\n- 支持`SD/U盘`文件雕刻\n- 支持`655`固件参考速度显示\n- 优化键盘输入体验\n- UI翻译资源调整\n- 修复`2D浮雕`透明背景"
 }
