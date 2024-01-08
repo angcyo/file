@@ -1,5 +1,9 @@
 {
   "productName": "LP5",
+  "isWifiDevice": true,
+  "firstLensControlX": true,
+  "haveFocalLens": true,
+  "lightType": "blue,white,",
   "width": 120,
   "height": 160,
   "startPhyX": 20,
@@ -20,6 +24,10 @@
   "sampleYMax": 80,
   "sampleXStep": 10,
   "sampleYStep": 10,
+  "sampleAdStartX": 0,
+  "sampleAdStartY": 388,
+  "sampleAdOffsetX": 0,
+  "sampleAdOffsetY": 388,
   "sampleGridRowCount": 17,
   "sampleGridColumnCount": 13,
   "showSaveFocus": true

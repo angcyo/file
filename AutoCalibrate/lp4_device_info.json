@@ -1,5 +1,8 @@
 {
   "productName": "LP4",
+  "firstLensControlX": false,
+  "haveFocalLens": true,
+  "lightType": "blue,white,",
   "width": 160,
   "height": 120,
   "startPhyX": 0,
@@ -20,6 +23,10 @@
   "sampleYMax": 60,
   "sampleXStep": 10,
   "sampleYStep": 10,
+  "sampleAdStartX": 388,
+  "sampleAdStartY": 0,
+  "sampleAdOffsetX": 388,
+  "sampleAdOffsetY": 0,
   "sampleGridRowCount": 13,
   "sampleGridColumnCount": 17
 }
