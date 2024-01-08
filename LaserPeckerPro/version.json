@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2023-12-26",
-  "versionName": "5.3.7-alpha12",
-  "versionCode": 53712,
-  "versionDes": "本次更新内容:\n- 支持`U盘`文件删除\n- 支持`SD/U盘`文件雕刻\n- 支持`655`固件参考速度显示\n- 优化键盘输入体验\n- UI翻译资源调整\n- 修复`2D浮雕`透明背景"
+  "versionDate": "2024-1-8",
+  "versionName": "5.3.7-alpha13",
+  "versionCode": 53713,
+  "versionDes": "本次更新内容:\n- 新增多元素预览\n- 新增`lpb`数据导出\n- 调整`速度转换器`样式/翻译资源\n- 修复文件管理删除文件\n- 修复`0x21/0x31`切割数据适配\n- 修复`切片数据循环指令`配置\n- 修复`保护罩链接`显示问题\n- 修复雕刻数据缓存问题\n- 修复自动激光`S0`指令位置问题"
 }
