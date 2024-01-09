@@ -3,6 +3,8 @@
   "isWifiDevice": true,
   "firstLensControlX": true,
   "haveFocalLens": true,
+  "flipHorizontal": false,
+  "flipVertical": true,
   "lightType": "blue,white,",
   "width": 120,
   "height": 160,
