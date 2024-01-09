@@ -24,9 +24,9 @@
   "sampleXStep": 10,
   "sampleYStep": 10,
   "sampleAdStartX": 388,
-  "sampleAdStartY": 0,
+  "sampleAdStartY": 388,
   "sampleAdOffsetX": 388,
-  "sampleAdOffsetY": 0,
+  "sampleAdOffsetY": 388,
   "sampleGridRowCount": 13,
   "sampleGridColumnCount": 17
 }
