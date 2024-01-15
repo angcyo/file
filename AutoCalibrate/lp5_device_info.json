@@ -5,6 +5,13 @@
   "haveFocalLens": true,
   "flipHorizontal": false,
   "flipVertical": true,
+  "directionMap": {
+    "l": "+x",
+    "r": "-x",
+    "t": "+y",
+    "b": "-y"
+  },
+  "compensate": true,
   "lightType": "blue,white,",
   "width": 120,
   "height": 160,

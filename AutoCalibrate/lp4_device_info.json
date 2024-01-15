@@ -2,6 +2,15 @@
   "productName": "LP4",
   "firstLensControlX": false,
   "haveFocalLens": true,
+  "flipHorizontal": true,
+  "flipVertical": false,
+  "compensate": true,
+  "directionMap": {
+    "l": "-x",
+    "r": "+x",
+    "t": "-y",
+    "b": "+y"
+  },
   "lightType": "blue,white,",
   "width": 160,
   "height": 120,
