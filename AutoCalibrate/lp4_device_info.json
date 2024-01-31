@@ -37,5 +37,31 @@
   "sampleAdOffsetX": 388,
   "sampleAdOffsetY": 388,
   "sampleGridRowCount": 13,
-  "sampleGridColumnCount": 17
+  "sampleGridColumnCount": 17,
+  "compensatePointList": [
+    {
+      "phyX": 30,
+      "phyY": 30,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    },
+    {
+      "phyX": 30,
+      "phyY": 130,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    },
+    {
+      "phyX": 130,
+      "phyY": 30,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    },
+    {
+      "phyX": 130,
+      "phyY": 130,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    }
+  ]
 }

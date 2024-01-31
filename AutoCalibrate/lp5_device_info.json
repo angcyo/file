@@ -39,5 +39,6 @@
   "sampleAdOffsetY": 388,
   "sampleGridRowCount": 17,
   "sampleGridColumnCount": 13,
-  "showSaveFocus": true
+  "showSaveFocus": true,
+  "supportDoubleLight": true
 }
