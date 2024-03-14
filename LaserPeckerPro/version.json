@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2024-3-13",
-  "versionName": "5.4.0-alpha2",
-  "versionCode": 54002,
-  "versionDes": "本次更新内容:\n- 新增添加设备界面\n- 新增ap配网流程界面\n- 新增速度转换提示气泡\n- 新增655材质参数推荐\n- 新增固件升级, 超时检测\n- 修复路径优化问题\n- 优化设备历史雕刻界面错误提示信息\n- 添加的图片元素默认抖动算法处理\n- 雕刻图层默认显示所有元素\n- 切割数据使用紫色渲染`0xFFE040FB`\n- `nsd` 服务接入\n- 更新`重复密码输入框提示文本`\n- 更新`App更新弹窗样式`\n- 更新`Android App更新跳转逻辑`(国内统一跳转官网, 国外统一跳转Google Play)\n- 修复`隐私政策弹窗`返回问题\n- 部分资源替换"
+  "versionDate": "2024-3-14",
+  "versionName": "5.4.0-alpha3",
+  "versionCode": 54003,
+  "versionDes": "本次更新内容:\n- 修复图片转GCode切割颜色\n- 修复素材图默认使用黑白处理"
 }
