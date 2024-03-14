@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-3-14",
+    "versionName": "5.4.0-alpha3",
+    "versionCode": 54003,
+    "versionDes": "本次更新内容:\n- 修复图片转GCode切割颜色\n- 修复素材图默认使用黑白处理"
+  },
+  {
     "versionDate": "2024-3-13",
     "versionName": "5.4.0-alpha2",
     "versionCode": 54002,
