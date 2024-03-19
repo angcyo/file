@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-3-18",
+    "versionName": "5.4.1-alpha1",
+    "versionCode": 54101,
+    "versionDes": "本次更新内容:\n- 修复雕刻图层选中背景色\n- 德语资源替换\n- 新增2D浮雕/位图临摹帮助文档\n- 修复token 401后取消同步检查"
+  },
+  {
     "versionDate": "2024-3-14",
     "versionName": "5.4.0-alpha3",
     "versionCode": 54003,
