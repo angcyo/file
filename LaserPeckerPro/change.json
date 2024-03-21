@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-3-21",
+    "versionName": "5.4.1-alpha2",
+    "versionCode": 54102,
+    "versionDes": "本次更新内容:\n- 修复部分德语资源\n- 修复部分界面样式问题\n- 开放lp5触摸按键设置\n- 雕刻图层分组默认折叠\n- 修复传输文件异常界面退出"
+  },
+  {
     "versionDate": "2024-3-18",
     "versionName": "5.4.1-alpha1",
     "versionCode": 54101,
