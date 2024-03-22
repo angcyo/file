@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2024-3-14",
-  "versionName": "5.4.0-alpha3",
-  "versionCode": 54003,
-  "versionDes": "本次更新内容:\n- 修复图片转GCode切割颜色\n- 修复素材图默认使用黑白处理"
+  "versionDate": "2024-3-22",
+  "versionName": "5.4.1-alpha4",
+  "versionCode": 54104,
+  "versionDes": "本次更新内容:\n- 修复已知问题"
 }
