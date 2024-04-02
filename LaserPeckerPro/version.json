@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2024-3-22",
-  "versionName": "5.4.1-alpha4",
-  "versionCode": 54104,
-  "versionDes": "本次更新内容:\n- 修复已知问题"
+  "versionDate": "2024-4-2",
+  "versionName": "5.4.2-alpha1",
+  "versionCode": 54201,
+  "versionDes": "本次更新内容:\n- 新增矢量路径偏移\n- 新的速度转换器\n- 适配LP5多元素框预览\n- 适配LP5多元素矢量预览\n- 修复图片偏移尺寸问题"
 }
