@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-4-7",
+    "versionName": "5.4.2-alpha2",
+    "versionCode": 54202,
+    "versionDes": "本次更新内容:\n- 修复已知问题\n- 优化推荐参数"
+  },
+  {
     "versionDate": "2024-4-2",
     "versionName": "5.4.2-alpha1",
     "versionCode": 54201,
