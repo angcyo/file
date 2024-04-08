@@ -42,5 +42,6 @@
   "showSaveFocus": true,
   "showSaveMinPower": true,
   "showSaveMaxPower": true,
+  "laserPowerAdjustMaxValue": 4095,
   "supportDoubleLight": true
 }
