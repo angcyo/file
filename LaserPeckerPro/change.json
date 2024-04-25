@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2024-4-25",
+    "versionName": "5.5.0-alpha3",
+    "versionCode": 55003,
+    "versionDes": "本次更新内容:\n- 新增雕刻速度输入\n- 翻译资源替换\n- ui走查调整\n- lp5 新流程`加工类型`适配\n- lp5 wifi配网支持`无密码`\n- lp5 `温度显示`适配\n- 修复已知问题"
+  },
+  {
+    "versionDate": "2024-4-19",
+    "versionName": "5.5.0-alpha1",
+    "versionCode": 55001,
+    "versionDes": "本次更新内容:\n- 新的雕刻流程\n- lp5中心点预览适配\n- 图片图层功率转换适配"
+  },
+  {
     "versionDate": "2024-4-7",
     "versionName": "5.4.2-alpha2",
     "versionCode": 54202,
