@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-4-26",
+    "versionName": "5.5.0-alpha4",
+    "versionCode": 55004,
+    "versionDes": "本次更新内容:\n- 新增配网gps权限检查\n- 优化配网体验\n- 修复0x30数据3000个点边界数据异常"
+  },
+  {
     "versionDate": "2024-4-25",
     "versionName": "5.5.0-alpha3",
     "versionCode": 55003,

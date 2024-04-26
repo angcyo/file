@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2024-4-7",
-  "versionName": "5.4.2-alpha2",
-  "versionCode": 54202,
-  "versionDes": "本次更新内容:\n- 修复已知问题\n- 优化推荐参数"
+  "versionDate": "2024-4-26",
+  "versionName": "5.5.0-alpha4",
+  "versionCode": 55004,
+  "versionDes": "本次更新内容:\n- 新增配网gps权限检查\n- 优化配网体验\n- 修复0x30数据3000个点边界数据异常"
 }
