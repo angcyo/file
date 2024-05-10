@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2024-4-26",
-  "versionName": "5.5.0-alpha4",
-  "versionCode": 55004,
-  "versionDes": "本次更新内容:\n- 新增配网gps权限检查\n- 优化配网体验\n- 修复0x30数据3000个点边界数据异常"
+  "versionDate": "2024-5-10",
+  "versionName": "5.5.0-alpha5",
+  "versionCode": 55005,
+  "versionDes": "本次更新内容:\n- 新增LP5保护罩适配,欧规/常规\n- 新增LP5排烟适配\n- 新增LP5连接动画\n- 新增`我的创作`中添加`文件管理`入口\n- 修复`U盘`雕刻信息显示问题\n- 关闭多矩形预览\n- 新增`矢量切片浮雕`\n- 移除`tcp通信超时`断开连接的判断\n- 修复`华为os`nsd服务异常\n- 普通雕刻移除切割数据生成\n- LP5 ble配网优化"
 }
