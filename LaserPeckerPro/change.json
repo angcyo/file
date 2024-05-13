@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-5-11",
+    "versionName": "5.5.0-alpha6",
+    "versionCode": 55006,
+    "versionDes": "本次更新内容:\n- 修复域名访问主机的问题\n- 修复GCode s/f参数问题\n- 适配`LP5`滑台开关设置"
+  },
+  {
     "versionDate": "2024-5-10",
     "versionName": "5.5.0-alpha5",
     "versionCode": 55005,
