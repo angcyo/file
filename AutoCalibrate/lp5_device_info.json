@@ -45,12 +45,29 @@
   "supportDoubleLight": true,
   "compensate": true,
   "compensatePointList": [
-
+    {
+      "phyX": 30,
+      "phyY": 30,
+      "affectScopeX": 1,
+      "affectScopeY": 1
+    },
+    {
+      "phyX": 30,
+      "phyY": 130,
+      "affectScopeX": 1,
+      "affectScopeY": 1
+    },
     {
       "phyX": 130,
       "phyY": 30,
-      "affectScopeX": 0.0001,
-      "affectScopeY": 0.0001
+      "affectScopeX": 1,
+      "affectScopeY": 1
+    },
+    {
+      "phyX": 130,
+      "phyY": 130,
+      "affectScopeX": 1,
+      "affectScopeY": 1
     }
   ]
 }
