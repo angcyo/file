@@ -48,26 +48,26 @@
     {
       "phyX": 30,
       "phyY": 30,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "affectScopeX": 0.4,
+      "affectScopeY": 0.4
     },
     {
       "phyX": 30,
       "phyY": 130,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "affectScopeX": 0.4,
+      "affectScopeY": 0.4
     },
     {
       "phyX": 130,
       "phyY": 30,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "affectScopeX": 0.4,
+      "affectScopeY": 0.4
     },
     {
       "phyX": 130,
       "phyY": 130,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "affectScopeX": 0.4,
+      "affectScopeY": 0.4
     }
   ]
 }
