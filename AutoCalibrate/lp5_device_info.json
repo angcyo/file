@@ -43,7 +43,7 @@
   "showSaveMaxPower": true,
   "laserPowerAdjustMaxValue": 4095,
   "supportDoubleLight": true,
-  "compensate": true,
+  "compensate": false,
   "compensatePointList": [
     {
       "phyX": 30,
