@@ -11,6 +11,7 @@
     "t": "+y",
     "b": "-y"
   },
+  "compensate": true,
   "lightType": "blue,white,",
   "width": 120,
   "height": 160,
@@ -43,31 +44,38 @@
   "showSaveMaxPower": true,
   "laserPowerAdjustMaxValue": 4095,
   "supportDoubleLight": true,
-  "compensate": false,
   "compensatePointList": [
     {
       "phyX": 30,
       "phyY": 30,
-      "affectScopeX": 0.8,
-      "affectScopeY": 0.8
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 0.8,
+      "adYRatio": 0.8
     },
     {
       "phyX": 30,
       "phyY": 130,
-      "affectScopeX": 0.8,
-      "affectScopeY": 0.8
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 0.8,
+      "adYRatio": 0.8
     },
     {
       "phyX": 130,
       "phyY": 30,
-      "affectScopeX": 0.8,
-      "affectScopeY": 0.8
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 0.8,
+      "adYRatio": 0.8
     },
     {
       "phyX": 130,
       "phyY": 130,
-      "affectScopeX": 0.8,
-      "affectScopeY": 0.8
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 0.8,
+      "adYRatio": 0.8
     }
   ]
 }
