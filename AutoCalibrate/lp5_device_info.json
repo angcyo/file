@@ -46,36 +46,36 @@
   "supportDoubleLight": true,
   "compensatePointList": [
     {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 0.4,
+      "adYRatio": 0.4,
       "phyX": 30,
-      "phyY": 30,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6,
-      "adXRatio": 0.8,
-      "adYRatio": 0.8
+      "phyY": 30
     },
     {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 0.4,
+      "adYRatio": 0.4,
       "phyX": 30,
-      "phyY": 130,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6,
-      "adXRatio": 0.8,
-      "adYRatio": 0.8
+      "phyY": 130
     },
     {
-      "phyX": 130,
-      "phyY": 30,
       "affectScopeX": 0.6,
       "affectScopeY": 0.6,
-      "adXRatio": 0.8,
-      "adYRatio": 0.8
+      "adXRatio": 0.4,
+      "adYRatio": 0.4,
+      "phyX": 130,
+      "phyY": 30
     },
     {
-      "phyX": 130,
-      "phyY": 130,
       "affectScopeX": 0.6,
       "affectScopeY": 0.6,
-      "adXRatio": 0.8,
-      "adYRatio": 0.8
+      "adXRatio": 0.4,
+      "adYRatio": 0.4,
+      "phyX": 130,
+      "phyY": 130
     }
   ]
 }
