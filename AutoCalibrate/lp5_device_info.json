@@ -48,32 +48,32 @@
     {
       "affectScopeX": 0.6,
       "affectScopeY": 0.6,
-      "adXRatio": 0.1,
-      "adYRatio": 0.1,
+      "adXRatio": 0.2,
+      "adYRatio": 0.2,
       "phyX": 30,
       "phyY": 30
     },
     {
       "affectScopeX": 0.6,
       "affectScopeY": 0.6,
-      "adXRatio": 0.1,
-      "adYRatio": 0.1,
+      "adXRatio": 0.2,
+      "adYRatio": 0.2,
       "phyX": 30,
       "phyY": 130
     },
     {
       "affectScopeX": 0.6,
       "affectScopeY": 0.6,
-      "adXRatio": 0.1,
-      "adYRatio": 0.1,
+      "adXRatio": 0.2,
+      "adYRatio": 0.2,
       "phyX": 130,
       "phyY": 30
     },
     {
       "affectScopeX": 0.6,
       "affectScopeY": 0.6,
-      "adXRatio": 0.1,
-      "adYRatio": 0.1,
+      "adXRatio": 0.2,
+      "adYRatio": 0.2,
       "phyX": 130,
       "phyY": 130
     }
