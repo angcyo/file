@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-5-29",
+    "versionName": "5.5.0-alpha8",
+    "versionCode": 55008,
+    "versionDes": "本次更新内容:\n- 查询wifi固件版本入口\n- 调整切片填充角度\n- 支持配件自动对焦\n- 调整部分界面样式\n- 适配保护罩自动对焦焦距参数\n- 修复文本描边数据异常\n- 适配`lp5`合规保护罩"
+  },
+  {
     "versionDate": "2024-5-22",
     "versionName": "5.5.0-alpha7",
     "versionCode": 55007,
