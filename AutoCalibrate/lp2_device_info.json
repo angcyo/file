@@ -4,7 +4,6 @@
   "firstLensControlX": false,
   "flipHorizontal": true,
   "flipVertical": false,
-  "adjustColumnCount": 251,
   "adjustDetectScale": 8.0,
   "adjustEndX": 4048,
   "adjustEndY": 4048,
@@ -12,6 +11,7 @@
   "adjustMinStep": 5.0,
   "adjustNoDetectStep": 30.0,
   "adjustRowCount": 251,
+  "adjustColumnCount": 251,
   "adjustStartX": 48,
   "adjustStartY": 48,
   "centerX": 2048.0,
@@ -50,6 +50,23 @@
   "secondLensDistance": 135.8,
   "showSaveFocus": false,
   "compensate": true,
+  "useCompensateTable": true,
+  "compensateTableXNumList": [
+    9,
+    18,
+    27,
+    36,
+    45,
+    55
+  ],
+  "compensateTableYNumList": [
+    8,
+    16,
+    24,
+    32,
+    40,
+    48
+  ],
   "startPhyX": 0,
   "startPhyY": 0,
   "width": 100
