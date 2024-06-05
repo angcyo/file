@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-6-5",
+    "versionName": "5.5.0-alpha9",
+    "versionCode": 55009,
+    "versionDes": "本次更新内容:\n- 修复功率键盘输入问题\n- 新增雕刻恢复弹窗\n- 优化sd/u盘文件列表错误提示\n- 修复新流程再次雕刻异常"
+  },
+  {
     "versionDate": "2024-5-29",
     "versionName": "5.5.0-alpha8",
     "versionCode": 55008,
