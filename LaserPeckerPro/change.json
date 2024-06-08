@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-6-8",
+    "versionName": "5.5.0-alpha10",
+    "versionCode": 55010,
+    "versionDes": "本次更新内容:\n- 修复切片异常\n- 修复出光频率不保存问题\n- 翻译资源"
+  },
+  {
     "versionDate": "2024-6-5",
     "versionName": "5.5.0-alpha9",
     "versionCode": 55009,
