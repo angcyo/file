@@ -64,6 +64,7 @@
   "showSaveMaxPower": true,
   "laserPowerAdjustMaxValue": 4095,
   "supportDoubleLight": true,
+  "showNoCalibrateCrossPreview": true,
   "compensatePointList": [
     {
       "affectScopeX": 0.6,

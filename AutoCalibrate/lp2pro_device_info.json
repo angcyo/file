@@ -1,0 +1,67 @@
+{
+  "productName": "LP2Pro",
+  "firstLensControlX": false,
+  "haveFocalLens": true,
+  "flipHorizontal": true,
+  "flipVertical": false,
+  "compensate": true,
+  "directionMap": {
+    "l": "-x",
+    "r": "+x",
+    "t": "-y",
+    "b": "+y"
+  },
+  "lightType": "blue,",
+  "width": 160,
+  "height": 120,
+  "startPhyX": 0,
+  "startPhyY": 20,
+  "centerX": 8192,
+  "centerY": 8192,
+  "focalDistance": 130,
+  "precision": 0.01,
+  "adjustStartX": 192,
+  "adjustEndX": 16192,
+  "adjustStartY": 192,
+  "adjustEndY": 16192,
+  "adjustMinX": 0,
+  "adjustMaxX": 16384,
+  "adjustMinY": 0,
+  "adjustMaxY": 16384,
+  "sampleXMax": 80,
+  "sampleYMax": 60,
+  "sampleXStep": 10,
+  "sampleYStep": 10,
+  "sampleAdStartX": 388,
+  "sampleAdStartY": 388,
+  "sampleAdOffsetX": 388,
+  "sampleAdOffsetY": 388,
+  "sampleGridRowCount": 13,
+  "sampleGridColumnCount": 17,
+  "compensatePointList": [
+    {
+      "phyX": 30,
+      "phyY": 30,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    },
+    {
+      "phyX": 30,
+      "phyY": 130,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    },
+    {
+      "phyX": 130,
+      "phyY": 30,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    },
+    {
+      "phyX": 130,
+      "phyY": 130,
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6
+    }
+  ]
+}
