@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-6-17",
+    "versionName": "5.5.0-alpha11",
+    "versionCode": 55011,
+    "versionDes": "本次更新内容:\n- 修复LP1/LP2/LP3删除索引异常\n- 修复速度显示\n- 调整雕刻速度同时改变雕刻深度\n- 调试模式下,雕刻时长精确到毫秒"
+  },
+  {
     "versionDate": "2024-6-8",
     "versionName": "5.5.0-alpha10",
     "versionCode": 55010,
