@@ -1,3 +1,6 @@
 {
-  "enableCustomDevice": true
+  "enableCustomDevice": true,
+  "showTestSchemeList": [
+    "d55149ff39efa8b2"
+  ]
 }
