@@ -1,3 +1,4 @@
 {
-  "debugFlagUuidList": ["xxx"]
+  "packageName": "com.angcyo.flutter3.abc",
+  "appFlavor": "pretest"
 }
