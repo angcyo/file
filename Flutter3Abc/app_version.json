@@ -1,5 +1,5 @@
 {
-  "debug": true,
+  "debug": false,
   "versionTile": "新版本升级",
   "versionName": "1.0.0",
   "versionCode": 2,
