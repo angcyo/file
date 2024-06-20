@@ -2,6 +2,8 @@
   "debug": true,
   "versionTile": "新版本升级",
   "versionName": "1.0.0",
-  "versionCode": 1,
-  "versionDes": "test"
+  "versionCode": 2,
+  "versionDes": "1:修复已知问题",
+  "outLink": true,
+  "downloadUrl": "http://www.baidu.com"
 }
