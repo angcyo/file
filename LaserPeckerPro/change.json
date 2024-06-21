@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-6-21",
+    "versionName": "5.5.0-alpha12",
+    "versionCode": 55012,
+    "versionDes": "本次更新内容:\n- 优化首页icon\n- 优化token验证\n- 材料测试新增白光Q值"
+  },
+  {
     "versionDate": "2024-6-17",
     "versionName": "5.5.0-alpha11",
     "versionCode": 55011,
