@@ -3,7 +3,7 @@
     "versionDate": "2024-6-21",
     "versionName": "5.5.0-alpha12",
     "versionCode": 55012,
-    "versionDes": "本次更新内容:\n- 优化首页icon\n- 优化token验证\n- 材料测试新增白光Q值"
+    "versionDes": "本次更新内容:\n- 优化首页icon\n- 优化token验证\n- 材料测试新增白光Q值\n- 优化切换wifi时清除密码\n- 修复再次雕刻任务时间统计"
   },
   {
     "versionDate": "2024-6-17",
