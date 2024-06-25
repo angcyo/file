@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-6-25",
+    "versionName": "5.5.0-alpha13",
+    "versionCode": 55013,
+    "versionDes": "本次更新内容:\n- RN U盘文件入口优化\n- 默认显示U盘文件列表"
+  },
+  {
     "versionDate": "2024-6-21",
     "versionName": "5.5.0-alpha12",
     "versionCode": 55012,
