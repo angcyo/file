@@ -4,6 +4,7 @@
   "haveFocalLens": true,
   "flipHorizontal": true,
   "flipVertical": false,
+  "showWifiVersionButton": true,
   "compensate": true,
   "directionMap": {
     "l": "-x",
@@ -38,30 +39,50 @@
   "sampleAdOffsetY": 388,
   "sampleGridRowCount": 13,
   "sampleGridColumnCount": 17,
+  "adjustRowCount": 401,
+  "adjustColumnCount": 401,
+  "showSaveFocus": true,
+  "showSaveMinPower": true,
+  "showSaveMaxPower": true,
+  "laserPowerAdjustMaxValue": 4095,
+  "supportDoubleLight": true,
+  "showNoCalibrateCrossPreview": true,
   "compensatePointList": [
     {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
       "phyX": 30,
       "phyY": 30,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "enable": true
     },
     {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
       "phyX": 30,
       "phyY": 130,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "enable": true
     },
     {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
       "phyX": 130,
       "phyY": 30,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "enable": true
     },
     {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
       "phyX": 130,
       "phyY": 130,
-      "affectScopeX": 0.6,
-      "affectScopeY": 0.6
+      "enable": true
     }
   ]
 }
