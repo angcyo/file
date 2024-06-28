@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-6-28",
+    "versionName": "5.5.0-alpha14",
+    "versionCode": 55014,
+    "versionDes": "本次更新内容:\n- 优化新流程界面的蒙层\n- 优化新流程速度参数渐变色\n- 优化pct样式\n- LP5 功能开关配置\n- LP2Pro 功能适配"
+  },
+  {
     "versionDate": "2024-6-25",
     "versionName": "5.5.0-alpha13",
     "versionCode": 55013,
