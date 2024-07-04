@@ -1,9 +1,15 @@
 [
   {
+    "versionDate": "2024-7-4",
+    "versionName": "5.5.0-alpha16",
+    "versionCode": 55016,
+    "versionDes": "本次更新内容:\n- 雕刻次调整为最大255\n- 修复速度切换深度时的缓存问题\n- RN 密码限制修复"
+  },
+  {
     "versionDate": "2024-7-2",
     "versionName": "5.5.0-alpha15",
     "versionCode": 55015,
-    "versionDes": "本次更新内容:\n- 修复键盘浮点输入bug\n- 修复灰度浮雕切片高度的精度 "
+    "versionDes": "本次更新内容:\n- 修复键盘浮点输入bug\n- 修复灰度浮雕切片高度的精度"
   },
   {
     "versionDate": "2024-6-28",
