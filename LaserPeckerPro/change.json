@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-7-8",
+    "versionName": "5.5.0-alpha17",
+    "versionCode": 55017,
+    "versionDes": "本次更新内容:\n- 配件下移除深度参考速度的显示\n- LP5最大雕刻速度调整为10000"
+  },
+  {
     "versionDate": "2024-7-4",
     "versionName": "5.5.0-alpha16",
     "versionCode": 55016,
