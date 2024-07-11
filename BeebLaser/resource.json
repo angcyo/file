@@ -1,0 +1,19 @@
+{
+  "baseUrl": "https://gitcode.net/angcyo/file/-/raw/master/BeebLaser/resource/",
+  "dataList": [
+    {
+      "categoryName": "基础",
+      "dataList": [
+        "basics/rect.svg",
+        "basics/line.svg"
+      ]
+    },
+    {
+      "categoryName": "植物",
+      "dataList": [
+        "botany/trees.svg",
+        "botany/flower.svg"
+      ]
+    }
+  ]
+}
