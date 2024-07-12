@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-7-12",
+    "versionName": "5.5.0-alpha18",
+    "versionCode": 55018,
+    "versionDes": "本次更新内容:\n- 修复蓝/光白光默认参数显示问题\n- ui走查"
+  },
+  {
     "versionDate": "2024-7-8",
     "versionName": "5.5.0-alpha17",
     "versionCode": 55017,
