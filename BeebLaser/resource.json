@@ -5,10 +5,14 @@
       "categoryName": "基础",
       "dataList": [
         {
-          "dataKey": "basics/rect.svg"
+          "dataKey": "basics/rect.svg",
+          "width": 10,
+          "height": 10
         },
         {
-          "dataKey": "basics/line.svg"
+          "dataKey": "basics/line.svg",
+          "width": 10,
+          "height": 10
         }
       ]
     },
@@ -16,10 +20,14 @@
       "categoryName": "植物",
       "dataList": [
         {
-          "dataKey": "botany/trees.svg"
+          "dataKey": "botany/trees.svg",
+          "width": 10,
+          "height": 10
         },
         {
-          "dataKey": "botany/flower.svg"
+          "dataKey": "botany/flower.svg",
+          "width": 10,
+          "height": 10
         }
       ]
     }
