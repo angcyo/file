@@ -5,12 +5,12 @@
       "categoryName": "基础",
       "dataList": [
         {
-          "dataKey": "basics/8.svg",
+          "dataKey": "basics/1.svg",
           "width": 10,
           "height": 10
         },
         {
-          "dataKey": "basics/1.svg",
+          "dataKey": "basics/2.svg",
           "width": 10,
           "height": 10
         },
@@ -20,7 +20,12 @@
           "height": 10
         },
         {
-          "dataKey": "basics/2.svg",
+          "dataKey": "basics/4.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/5.svg",
           "width": 10,
           "height": 10
         },
@@ -35,12 +40,7 @@
           "height": 10
         },
         {
-          "dataKey": "basics/5.svg",
-          "width": 10,
-          "height": 10
-        },
-        {
-          "dataKey": "basics/4.svg",
+          "dataKey": "basics/8.svg",
           "width": 10,
           "height": 10
         }
@@ -50,12 +50,177 @@
       "categoryName": "植物",
       "dataList": [
         {
-          "dataKey": "botany/trees.svg",
+          "dataKey": "botany/1.svg",
           "width": 10,
           "height": 10
         },
         {
-          "dataKey": "botany/flower.svg",
+          "dataKey": "botany/2.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "botany/3.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "botany/4.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "botany/5.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "botany/6.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "botany/7.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "botany/8.svg",
+          "width": 10,
+          "height": 10
+        }
+      ]
+    },
+    {
+      "categoryName": "边框",
+      "dataList": [
+        {
+          "dataKey": "border/1.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/2.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/3.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/4.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/5.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/6.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/7.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "border/8.svg",
+          "width": 10,
+          "height": 10
+        }
+      ]
+    },
+    {
+      "categoryName": "背景图案",
+      "dataList": [
+        {
+          "dataKey": "bgf/1.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/2.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/3.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/4.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/5.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/6.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/7.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "bgf/8.svg",
+          "width": 10,
+          "height": 10
+        }
+      ]
+    },
+    {
+      "categoryName": "其他",
+      "dataList": [
+        {
+          "dataKey": "other/1.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/2.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/3.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/4.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/5.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/6.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/7.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "other/8.svg",
           "width": 10,
           "height": 10
         }
