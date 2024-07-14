@@ -5,12 +5,42 @@
       "categoryName": "基础",
       "dataList": [
         {
-          "dataKey": "basics/rect.svg",
+          "dataKey": "basics/8.svg",
           "width": 10,
           "height": 10
         },
         {
-          "dataKey": "basics/line.svg",
+          "dataKey": "basics/1.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/3.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/2.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/6.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/7.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/5.svg",
+          "width": 10,
+          "height": 10
+        },
+        {
+          "dataKey": "basics/4.svg",
           "width": 10,
           "height": 10
         }
