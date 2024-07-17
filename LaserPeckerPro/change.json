@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-7-17",
+    "versionName": "5.5.0-alpha19",
+    "versionCode": 55019,
+    "versionDes": "本次更新内容:\n- 修复新流程元素超出边界提示\n- 修复历史雕刻不能选择新流程\n- 修复滑台多文件不显示速度\n- 修复RN不发送用户信息到原生\n- 修复RN下载页空白\n- LP5 8K显示\n- Lp2Plus适配\n- 修复黑白画反色透明背景\n- 修复元素数据尺寸异常"
+  },
+  {
     "versionDate": "2024-7-12",
     "versionName": "5.5.0-alpha18",
     "versionCode": 55018,
