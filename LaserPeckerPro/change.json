@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-7-23",
+    "versionName": "5.5.0-alpha20",
+    "versionCode": 55020,
+    "versionDes": "本次更新内容:\n- 修复多元素预览大小异常问题\n- 新流程的`异常状态`提示\n- 资源`自动连接蓝牙`->`自动连接设备`\n- 新流程雕刻版本配置\n- LP5雕刻数据新增模式参数\n- LP5 SD/U盘文件雕刻新增模式检查"
+  },
+  {
     "versionDate": "2024-7-17",
     "versionName": "5.5.0-alpha19",
     "versionCode": 55019,
