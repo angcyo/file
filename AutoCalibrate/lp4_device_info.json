@@ -5,6 +5,7 @@
   "flipHorizontal": true,
   "flipVertical": false,
   "compensate": true,
+  "showNoCalibrateFocalDistance": true,
   "directionMap": {
     "l": "-x",
     "r": "+x",
