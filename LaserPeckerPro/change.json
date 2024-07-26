@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-7-26",
+    "versionName": "5.5.0-alpha21",
+    "versionCode": 55021,
+    "versionDes": "本次更新内容:\n- 修复抖动背景反色问题\n- 修复新流程变量模板更新问题\n- 修复U盘文件预览"
+  },
+  {
     "versionDate": "2024-7-23",
     "versionName": "5.5.0-alpha20",
     "versionCode": 55020,
