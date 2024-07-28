@@ -10,7 +10,9 @@
           "outLink": false,
           "downloadUrl": "https://gitcode.net/angcyo/BeebLaserApk/-/raw/master/BeebLaser-1.0.0_release.apk",
           "marketUrl": null,
-          "forceUpdate": true
+          "forceUpdate": true,
+          "forbiddenReason": "forbiddenReason",
+          "forceForbidden": true
         }
       }
     }
