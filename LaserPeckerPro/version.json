@@ -2,8 +2,8 @@
   "versionForce": true,
   "link": true,
   "versionUrl": "https://www.pgyer.com/PNbc",
-  "versionDate": "2024-5-11",
-  "versionName": "5.5.0-alpha6",
-  "versionCode": 55006,
-  "versionDes": "本次更新内容:\n- 修复域名访问主机的问题\n- 修复GCode s/f参数问题\n- 适配`LP5`滑台开关设置"
+  "versionDate": "2024-7-29",
+  "versionName": "5.5.0",
+  "versionCode": 55022,
+  "versionDes": "本次更新内容:\n- 1. 全新的雕刻流程（针对LP4/LP5机型开放）\n-2. 新增变量增量打印（针对LP4/LP5机型开放）\n-3. 新增多文件实时预览/多文件实时向量预览\n-4. 新增浮雕功能（灰度浮雕功能针对LP5机型开放）\n-5. 新增U盘雕刻功能（针对LP5机型开放）\n-6. 新增金属切割功能（针对LP5机型开放）\n-7. 将登录密码限制功能开放（PC 高等级密码可在移动端进行登录）\n-8. 修复LP4机型预览延时2-3s功能（将预览延迟缩至60ms）"
 }
