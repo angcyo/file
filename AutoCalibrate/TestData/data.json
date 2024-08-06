@@ -1,80 +1,101 @@
 [
   {
-    "fileName": "100x100矩形7920mm.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/100x100矩形7920mm.svg",
-    "md5": "196bc5f9572420c647f713e41c858cfc",
-    "createTime": "2024-08-06 11:25:52.932"
+    "fileName": "100x100矩形7920mm.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/100x100矩形7920mm.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "7dabd33e3dfcf0d4e7a86b097119a41f",
+    "createTime": "2024-08-06 14:48:42.665"
   },
   {
-    "fileName": "LP5同心圆.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5同心圆.svg",
-    "md5": "47181f320c750467b2c261cc96ff4bca",
-    "createTime": "2024-08-06 11:25:52.942"
+    "fileName": "LP5同心圆.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5同心圆.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "1130d1bccf87f2f0fd5e45bedd70b20d",
+    "createTime": "2024-08-06 14:48:42.675"
   },
   {
-    "fileName": "LP5斜格图.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5斜格图.svg",
-    "md5": "10e53f3f27498fe86778cc1861029622",
-    "createTime": "2024-08-06 11:25:52.942"
+    "fileName": "LP5斜格图.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5斜格图.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "c4a4240a7b85491d32b2bb21d4d97105",
+    "createTime": "2024-08-06 14:48:42.675"
   },
   {
-    "fileName": "LP5矩形图1.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5矩形图1.svg",
-    "md5": "fd9908dc6cf3a3f8ffd33834ee010146",
-    "createTime": "2024-08-06 11:25:52.942"
+    "fileName": "LP5矩形图1.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5矩形图1.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "4e76d7edc2e22182f1cfe2403158b1ec",
+    "createTime": "2024-08-06 14:48:42.676"
   },
   {
-    "fileName": "LP5矩形图2.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5矩形图2.svg",
-    "md5": "2d516e51611245a607f5b45340821b12",
-    "createTime": "2024-08-06 11:25:52.943"
+    "fileName": "LP5矩形图2.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5矩形图2.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "26922299280c3e5fb8006c37a6d38430",
+    "createTime": "2024-08-06 14:48:42.676"
   },
   {
-    "fileName": "LP5网格图.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5网格图.svg",
-    "md5": "ddd5506ec866a6c4f6467222e82e651b",
-    "createTime": "2024-08-06 11:25:52.943"
-  },
-  {
-    "fileName": "pentagon.nc",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/pentagon.nc",
-    "md5": "b3b7105e08f4599a4da37b1e013550ef",
-    "createTime": "2024-08-06 11:25:52.943"
+    "fileName": "LP5网格图.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/LP5网格图.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "3171f0723170a8cfc99701fd2297d2f2",
+    "createTime": "2024-08-06 14:48:42.676"
   },
   {
     "fileName": "抖动测试图.jpg",
     "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/抖动测试图.jpg",
+    "width": 100.0,
+    "height": 100.0,
+    "layoutId": null,
     "md5": "13be9a006995f3a14ad645186e8427dc",
-    "createTime": "2024-08-06 11:25:52.946"
+    "createTime": "2024-08-06 14:48:42.684"
   },
   {
-    "fileName": "斜格测试图.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/斜格测试图.svg",
-    "md5": "25b670ace470786d5f540d53af908fa7",
-    "createTime": "2024-08-06 11:25:52.946"
+    "fileName": "斜格测试图.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/斜格测试图.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "7f3cc937ed1a1f9dcbb7fc306a3a1a9b",
+    "createTime": "2024-08-06 14:48:42.685"
   },
   {
-    "fileName": "方格测试图.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/方格测试图.svg",
-    "md5": "791f5c2bd25ed0f24ef46d3766469807",
-    "createTime": "2024-08-06 11:25:52.947"
+    "fileName": "方格测试图.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/方格测试图.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "e7923d28deabca3824d443d8cb63eb66",
+    "createTime": "2024-08-06 14:48:42.685"
   },
   {
-    "fileName": "正回形图_1.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/正回形图_1.svg",
-    "md5": "e99c84b0e325a7e0ae8bfbb52a25dd4d",
-    "createTime": "2024-08-06 11:25:52.947"
-  },
-  {
-    "fileName": "网格图2.svg",
-    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/网格图2.svg",
-    "md5": "ff7ec42bd0f75246a2fc3a2ac3aaf8b0",
-    "createTime": "2024-08-06 11:25:52.947"
+    "fileName": "正回形图_1.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/正回形图_1.gcode",
+    "width": null,
+    "height": null,
+    "layoutId": null,
+    "md5": "37e2998aadb70d7e5e6b1991081aed8e",
+    "createTime": "2024-08-06 14:48:42.685"
   },
   {
     "fileName": "黑白老虎头.jpg",
     "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/黑白老虎头.jpg",
+    "width": 100.0,
+    "height": 100.0,
+    "layoutId": "layerFill",
     "md5": "c823a6f1903e7d4f776d42486df27094",
-    "createTime": "2024-08-06 11:25:52.950"
+    "createTime": "2024-08-06 14:48:42.688"
   }
 ]
