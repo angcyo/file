@@ -6,7 +6,7 @@
     "height": 120.0,
     "layoutId": null,
     "md5": "1130d1bccf87f2f0fd5e45bedd70b20d",
-    "createTime": "2024-08-07 09:47:15.285"
+    "createTime": "2024-08-08 09:58:05.134"
   },
   {
     "fileName": "LP5斜格图 120x160.gcode",
@@ -15,7 +15,7 @@
     "height": 160.0,
     "layoutId": null,
     "md5": "c4a4240a7b85491d32b2bb21d4d97105",
-    "createTime": "2024-08-07 09:47:15.295"
+    "createTime": "2024-08-08 09:58:05.145"
   },
   {
     "fileName": "LP5矩形图1 120x160.gcode",
@@ -24,7 +24,7 @@
     "height": 160.0,
     "layoutId": null,
     "md5": "4e76d7edc2e22182f1cfe2403158b1ec",
-    "createTime": "2024-08-07 09:47:15.296"
+    "createTime": "2024-08-08 09:58:05.146"
   },
   {
     "fileName": "LP5矩形图2 115x120.gcode",
@@ -33,7 +33,7 @@
     "height": 120.0,
     "layoutId": null,
     "md5": "26922299280c3e5fb8006c37a6d38430",
-    "createTime": "2024-08-07 09:47:15.296"
+    "createTime": "2024-08-08 09:58:05.147"
   },
   {
     "fileName": "LP5网格图 120x160.gcode",
@@ -42,7 +42,16 @@
     "height": 160.0,
     "layoutId": null,
     "md5": "3171f0723170a8cfc99701fd2297d2f2",
-    "createTime": "2024-08-07 09:47:15.297"
+    "createTime": "2024-08-08 09:58:05.147"
+  },
+  {
+    "fileName": "合成图 120x160.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/合成图 120x160.gcode",
+    "width": 120.0,
+    "height": 160.0,
+    "layoutId": null,
+    "md5": "780ce5b5282f6790207b8d90e4db9f82",
+    "createTime": "2024-08-08 09:58:05.148"
   },
   {
     "fileName": "抖动测试图 100x100.jpg",
@@ -51,7 +60,7 @@
     "height": 100.0,
     "layoutId": null,
     "md5": "13be9a006995f3a14ad645186e8427dc",
-    "createTime": "2024-08-07 09:47:15.299"
+    "createTime": "2024-08-08 09:58:05.152"
   },
   {
     "fileName": "抖动测试图 10x10.jpg",
@@ -60,7 +69,16 @@
     "height": 10.0,
     "layoutId": null,
     "md5": "13be9a006995f3a14ad645186e8427dc",
-    "createTime": "2024-08-07 09:47:15.302"
+    "createTime": "2024-08-08 09:58:05.158"
+  },
+  {
+    "fileName": "抖动测试图 50x50.jpg",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/抖动测试图 50x50.jpg",
+    "width": 50.0,
+    "height": 50.0,
+    "layoutId": null,
+    "md5": "13be9a006995f3a14ad645186e8427dc",
+    "createTime": "2024-08-08 09:58:05.161"
   },
   {
     "fileName": "斜格测试图 110x110.gcode",
@@ -69,7 +87,7 @@
     "height": 110.0,
     "layoutId": null,
     "md5": "7f3cc937ed1a1f9dcbb7fc306a3a1a9b",
-    "createTime": "2024-08-07 09:47:15.303"
+    "createTime": "2024-08-08 09:58:05.161"
   },
   {
     "fileName": "方格测试图 100x100.gcode",
@@ -78,7 +96,7 @@
     "height": 100.0,
     "layoutId": null,
     "md5": "e7923d28deabca3824d443d8cb63eb66",
-    "createTime": "2024-08-07 09:47:15.303"
+    "createTime": "2024-08-08 09:58:05.162"
   },
   {
     "fileName": "正回形图 60x60.gcode",
@@ -87,7 +105,7 @@
     "height": 60.0,
     "layoutId": null,
     "md5": "37e2998aadb70d7e5e6b1991081aed8e",
-    "createTime": "2024-08-07 09:47:15.303"
+    "createTime": "2024-08-08 09:58:05.162"
   },
   {
     "fileName": "矩形7920mm 140x140.gcode",
@@ -96,7 +114,25 @@
     "height": 140.0,
     "layoutId": null,
     "md5": "7dabd33e3dfcf0d4e7a86b097119a41f",
-    "createTime": "2024-08-07 09:47:15.303"
+    "createTime": "2024-08-08 09:58:05.163"
+  },
+  {
+    "fileName": "网格图2 120x160.gcode",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/网格图2 120x160.gcode",
+    "width": 120.0,
+    "height": 160.0,
+    "layoutId": null,
+    "md5": "0b6b2031eabb46b2a7513f6a6c52a77b",
+    "createTime": "2024-08-08 09:58:05.163"
+  },
+  {
+    "fileName": "黑白网格图 50x50.jpg",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/黑白网格图 50x50.jpg",
+    "width": 50.0,
+    "height": 50.0,
+    "layoutId": "layerFill",
+    "md5": "5c93ff472cdfea1b9036e1f4dc51649e",
+    "createTime": "2024-08-08 09:58:05.164"
   },
   {
     "fileName": "黑白老虎头 100x100.jpg",
@@ -105,7 +141,7 @@
     "height": 100.0,
     "layoutId": "layerFill",
     "md5": "c823a6f1903e7d4f776d42486df27094",
-    "createTime": "2024-08-07 09:47:15.306"
+    "createTime": "2024-08-08 09:58:05.169"
   },
   {
     "fileName": "黑白老虎头 10x10.jpg",
@@ -114,6 +150,15 @@
     "height": 10.0,
     "layoutId": "layerFill",
     "md5": "c823a6f1903e7d4f776d42486df27094",
-    "createTime": "2024-08-07 09:47:15.309"
+    "createTime": "2024-08-08 09:58:05.172"
+  },
+  {
+    "fileName": "黑白老虎头 40x40.jpg",
+    "url": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/TestData/黑白老虎头 40x40.jpg",
+    "width": 40.0,
+    "height": 40.0,
+    "layoutId": "layerFill",
+    "md5": "c823a6f1903e7d4f776d42486df27094",
+    "createTime": "2024-08-08 09:58:05.177"
   }
 ]
