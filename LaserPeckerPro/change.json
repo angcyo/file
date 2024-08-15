@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-8-15",
+    "versionName": "5.5.1-alpha1",
+    "versionCode": 55101,
+    "versionDes": "本次更新内容:\n- L2/L3/L4合规保护罩适配\n- 修复pct雕刻参数问题\n- 修复设备切换新流程判断问题\n- 修复release后无法选择文件问题"
+  },
+  {
     "versionDate": "2024-7-26",
     "versionName": "5.5.0-alpha21",
     "versionCode": 55021,
