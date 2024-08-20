@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-8-20",
+    "versionName": "5.5.1-alpha2",
+    "versionCode": 55102,
+    "versionDes": "本次更新内容:\n- 优化pct"
+  },
+  {
     "versionDate": "2024-8-15",
     "versionName": "5.5.1-alpha1",
     "versionCode": 55101,
