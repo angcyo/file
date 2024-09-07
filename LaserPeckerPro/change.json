@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2024-9-7",
+    "versionName": "5.6.1-alpha4",
+    "versionCode": 56104,
+    "versionDes": "本次更新内容:\n- 优化激光模块信息显示\n- 优化历史雕刻激光模块信息显示\n- 修复材料厚度小数输入问题\n- 修复旋转轴下隐藏材料厚度输入\n- 优化红光校准退出确认弹窗\n- 优化校准界面完成交互"
+  },
+  {
+    "versionDate": "2024-9-4",
+    "versionName": "5.6.1-alpha3",
+    "versionCode": 56103,
+    "versionDes": "本次更新内容:\n- `5.6.1` ui走查\n- `5.6.1` 翻译资源替换"
+  }
+  {
     "versionDate": "2024-8-20",
     "versionName": "5.5.1-alpha2",
     "versionCode": 55102,
