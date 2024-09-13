@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-9-13",
+    "versionName": "5.6.1-alpha7",
+    "versionCode": 56109,
+    "versionDes": "本次更新内容:\n- RN `Android 14`适配\n- RN 更新至 `0.73.0`\n- 新增`我的空间`"
+  },
+  {
     "versionDate": "2024-9-7",
     "versionName": "5.6.1-alpha4",
     "versionCode": 56104,
