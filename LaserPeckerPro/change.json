@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-9-24",
+    "versionName": "5.8.0-alpha1",
+    "versionCode": 58001,
+    "versionDes": "本次更新内容:\n- 新增摄像头模板列表\n- 新增摄像头拍照\n- 新增摄像头智能填充\n- 新增摄像头轮廓提取"
+  },
+  {
     "versionDate": "2024-9-19",
     "versionName": "5.6.1-alpha8",
     "versionCode": 56110,
