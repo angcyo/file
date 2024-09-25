@@ -1,6 +1,12 @@
 [
   {
     "versionDate": "2024-9-25",
+    "versionName": "5.8.0-alpha2",
+    "versionCode": 58002,
+    "versionDes": "本次更新内容:\n- 支持ip访问摄像头\n- 修复资源问题"
+  },
+  {
+    "versionDate": "2024-9-25",
     "versionName": "5.6.2-alpha1",
     "versionCode": 56201,
     "versionDes": "本次更新内容:\n- 修复资源问题"
