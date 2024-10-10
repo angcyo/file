@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2024-10-10",
+    "versionName": "5.8.0-alpha4",
+    "versionCode": 58004,
+    "versionDes": "本次更新内容:\n- 排烟时长设置上限调整为300s\n- 修复再次雕刻排烟检查\n- 修复相机模板切换崩溃问题"
+  },
+  {
+    "versionDate": "2024-9-30",
+    "versionName": "5.8.0-alpha3",
+    "versionCode": 58003,
+    "versionDes": "本次更新内容:\n- 新增摄像头主机绑定\n- 优化配网自动确认"
+  },
+  {
     "versionDate": "2024-9-25",
     "versionName": "5.8.0-alpha2",
     "versionCode": 58002,
