@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2024-10-14",
+    "versionName": "5.8.0-alpha6",
+    "versionCode": 58006,
+    "versionDes": "本次更新内容:\n- 调整配网记住密码逻辑\n- 优化摄像头配网后的概率崩溃\n- 调整摄像头轮廓提取为多个元素"
+  },
+  {
+    "versionDate": "2024-10-11",
+    "versionName": "5.8.0-alpha5",
+    "versionCode": 58005,
+    "versionDes": "本次更新内容:\n- 修复火焰重复弹窗判断\n- 修复再次雕刻排烟检查"
+  },
+  {
     "versionDate": "2024-10-10",
     "versionName": "5.8.0-alpha4",
     "versionCode": 58004,
