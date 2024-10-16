@@ -1,8 +1,9 @@
 {
-  "versionName": "2.5.0",
-  "versionCode": 250,
+  "versionName": "2.5.1",
+  "versionCode": 251,
   "versionDes": "本次更新内容:\n1: 意想不到!",
   "versionForce": true,
   "link": false,
-  "versionUrl": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/AutoCalibrate-2.5.0_apk_release_app.apk"
+  "versionUrl": "https://gitlab.com/angcyo/file/-/raw/master/AutoCalibrate/AutoCalibrate-2.5.1_apk_release_app.apk",
+  "versionUrl1": "https://gitcode.net/angcyo/file/-/raw/master/AutoCalibrate/AutoCalibrate-2.5.0_apk_release_app.apk"
 }
