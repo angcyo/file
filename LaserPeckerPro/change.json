@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-10-18",
+    "versionName": "5.8.0-alpha7",
+    "versionCode": 58007,
+    "versionDes": "本次更新内容:\n- 优化记住配网密码逻辑\n- 调整排烟提示"
+  },
+  {
     "versionDate": "2024-10-14",
     "versionName": "5.8.0-alpha6",
     "versionCode": 58006,
