@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2024-10-22",
+    "versionName": "5.8.0-alpha9",
+    "versionCode": 58009,
+    "versionDes": "本次更新内容:\n- 修改烫手提示语\n- 添加材质高度最大值限制\n- 修复雕刻中错误提示"
+  },
+  {
+    "versionDate": "2024-10-19",
+    "versionName": "5.8.0-alpha8",
+    "versionCode": 58008,
+    "versionDes": "本次更新内容:\n- 修复图片轮廓偏移问题\n- 调整保护罩配置限制\n- 修复保护罩固件升级提示\n- 修复预览界面材料高度\n- 修复材质参数测试矩阵样式\n- 修复UI走查"
+  },
+  {
     "versionDate": "2024-10-18",
     "versionName": "5.8.0-alpha7",
     "versionCode": 58007,
