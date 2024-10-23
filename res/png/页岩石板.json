@@ -1,0 +1,154 @@
+{
+  "optionName": "页岩石板",
+  "optionUrl": "https://gitee.com/angcyo/file/raw/master/res/png/%E9%A1%B5%E5%B2%A9%E7%9F%B3%E6%9D%BF.png",
+  "originWidth": 1074,
+  "originHeight": 1074,
+  "gridDataOffsetX": 265,
+  "gridDataOffsetY": 195,
+  "gridDataWidth": 151,
+  "gridDataHeight": 151,
+  "gridDataGap": 36,
+  "gridDataDpi": 100,
+  "horizontalValueLabel": "Power(%)",
+  "horizontalValueKey": "power",
+  "horizontalMinValue": 10,
+  "horizontalMaxValue": 100,
+  "horizontalValueCount": 4,
+  "horizontalValueList": [],
+  "verticalValueLabel": "Speed(mm/s)",
+  "verticalValueKey": "speed",
+  "verticalMinValue": 1000,
+  "verticalMaxValue": 15000,
+  "verticalValueCount": 4,
+  "verticalValueList": [],
+  "gridDataList": [
+    {
+      "power": 10,
+      "speed": 1000,
+      "x": 265,
+      "y": 195,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 10,
+      "speed": 5667,
+      "x": 265,
+      "y": 382,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 10,
+      "speed": 10334,
+      "x": 265,
+      "y": 569,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 10,
+      "speed": 15000,
+      "x": 265,
+      "y": 756,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 40,
+      "speed": 1000,
+      "x": 452,
+      "y": 195,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 40,
+      "speed": 5667,
+      "x": 452,
+      "y": 382,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 40,
+      "speed": 10334,
+      "x": 452,
+      "y": 569,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 40,
+      "speed": 15000,
+      "x": 452,
+      "y": 756,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 70,
+      "speed": 1000,
+      "x": 639,
+      "y": 195,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 70,
+      "speed": 5667,
+      "x": 639,
+      "y": 382,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 70,
+      "speed": 10334,
+      "x": 639,
+      "y": 569,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 70,
+      "speed": 15000,
+      "x": 639,
+      "y": 756,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 100,
+      "speed": 1000,
+      "x": 826,
+      "y": 195,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 100,
+      "speed": 5667,
+      "x": 826,
+      "y": 382,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 100,
+      "speed": 10334,
+      "x": 826,
+      "y": 569,
+      "w": 151,
+      "h": 151
+    },
+    {
+      "power": 100,
+      "speed": 15000,
+      "x": 826,
+      "y": 756,
+      "w": 151,
+      "h": 151
+    }
+  ]
+}
