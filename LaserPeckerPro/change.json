@@ -1,5 +1,17 @@
 [
   {
+    "versionDate": "2024-10-30",
+    "versionName": "5.8.0-alpha11",
+    "versionCode": 58011,
+    "versionDes": "本次更新内容:\n- 修复火焰弹窗暂停雕刻控制体验\n- 调整切割矢量元素填充后移除切割属性\n- 调整摄像头检测逻辑"
+  },
+  {
+    "versionDate": "2024-10-28",
+    "versionName": "5.8.0-alpha10",
+    "versionCode": 58010,
+    "versionDes": "本次更新内容:\n- 调整摄像头配网完成操作\n- 调整摄像头配网中ui样式\n- 新增摄像头拍照帮助\n- 新增材料厚度帮助\n- 全量替换`英法西德`资源"
+  },
+  {
     "versionDate": "2024-10-22",
     "versionName": "5.8.0-alpha9",
     "versionCode": 58009,
