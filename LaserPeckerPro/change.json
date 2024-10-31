@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-10-31",
+    "versionName": "5.8.0-alpha12",
+    "versionCode": 58012,
+    "versionDes": "本次更新内容:\n- 优化摄像头交互\n- 优化拍照定位按钮交互\n- 优化断开主机后清除拍照\n- 优化保护罩支架控制体验\n- 修复RN邮箱提示语\n- 支持csv文件渲染"
+  },
+  {
     "versionDate": "2024-10-30",
     "versionName": "5.8.0-alpha11",
     "versionCode": 58011,
