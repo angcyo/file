@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-11-1",
+    "versionName": "5.8.0-alpha13",
+    "versionCode": 58013,
+    "versionDes": "本次更新内容:\n- 优化拍照定位按钮/厚度按钮交互\n- 新增智能填充/拍摄精度/材料厚度帮助文档\n- 修复火焰弹窗样式\n- 新增摄像头拍照矫正\n"
+  },
+  {
     "versionDate": "2024-10-31",
     "versionName": "5.8.0-alpha12",
     "versionCode": 58012,
