@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-11-9",
+    "versionName": "5.8.0-alpha15",
+    "versionCode": 58015,
+    "versionDes": "本次更新内容:\n- 选择摄像头模版后, 自动刷新背景\n- 调整pct深度值顺序\n- 修复UI走查\n- 全量资源`英语，德语，西班牙语，法语，繁`替换\n- 修复文本过长省略号显示"
+  },
+  {
     "versionDate": "2024-11-1",
     "versionName": "5.8.0-alpha13",
     "versionCode": 58013,
