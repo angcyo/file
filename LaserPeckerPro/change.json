@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-11-14",
+    "versionName": "5.8.0-alpha16",
+    "versionCode": 58016,
+    "versionDes": "本次更新内容:\n- 修复文本过长省略号显示\n- 修复`RN`的翻译"
+  },
+  {
     "versionDate": "2024-11-9",
     "versionName": "5.8.0-alpha15",
     "versionCode": 58015,
