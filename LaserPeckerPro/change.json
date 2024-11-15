@@ -1,5 +1,11 @@
 [
   {
+    "versionDate": "2024-11-15",
+    "versionName": "5.8.0-alpha17",
+    "versionCode": 58017,
+    "versionDes": "本次更新内容:\n- 全量替换`英德西法日繁中`资源\n- 修复U盘文件预览样式"
+  },
+  {
     "versionDate": "2024-11-14",
     "versionName": "5.8.0-alpha16",
     "versionCode": 58016,
