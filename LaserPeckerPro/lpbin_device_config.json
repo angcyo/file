@@ -1,6 +1,6 @@
 {
   "createVerifyCode": {
-    "value": "angcyo",
+    "value": null,
     "title": "验证",
     "placeHolder": "请输入验证码",
     "prompt": "请输入验证码之后继续操作!"
