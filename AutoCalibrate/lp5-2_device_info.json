@@ -11,26 +11,9 @@
     "t": "+y",
     "b": "-y"
   },
-  "compensate": true,
-  "useCompensateTable": true,
-  "compensateTableXNumList": [
-    12,
-    25,
-    37,
-    50,
-    75,
-    100
-  ],
-  "compensateTableYNumList": [
-    10,
-    20,
-    30,
-    40,
-    61,
-    81
-  ],
   "showWifiVersionButton": true,
   "lightType": "blue,white,",
+  "supportDoubleLight": true,
   "width": 120,
   "height": 160,
   "startPhyX": 20,
@@ -63,9 +46,27 @@
   "showSaveMinPower": true,
   "showSaveMaxPower": true,
   "laserPowerAdjustMaxValue": 4095,
-  "supportDoubleLight": true,
   "showNoCalibrateCrossPreview": true,
   "showNoCalibrateFocalDistance": true,
+  "showNoCalibrateGridPreview": true,
+  "compensate": true,
+  "useCompensateTable": true,
+  "compensateTableXNumList": [
+    12,
+    25,
+    37,
+    50,
+    75,
+    100
+  ],
+  "compensateTableYNumList": [
+    10,
+    20,
+    30,
+    40,
+    61,
+    81
+  ],
   "compensatePointList": [
     {
       "affectScopeX": 0.6,
@@ -102,6 +103,50 @@
       "phyX": 130,
       "phyY": 130,
       "enable": true
+    },
+    {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
+      "phyX": 25,
+      "phyY": 25,
+      "adX": 1200,
+      "adY": 3000,
+      "enable": false
+    },
+    {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
+      "phyX": 25,
+      "phyY": 135,
+      "adX": 1200,
+      "adY": 13600,
+      "enable": false
+    },
+    {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
+      "phyX": 135,
+      "phyY": 25,
+      "adX": 15000,
+      "adY": 3000,
+      "enable": false
+    },
+    {
+      "affectScopeX": 0.6,
+      "affectScopeY": 0.6,
+      "adXRatio": 1,
+      "adYRatio": 1,
+      "phyX": 135,
+      "phyY": 135,
+      "adX": 15000,
+      "adY": 13600,
+      "enable": false
     }
   ]
 }

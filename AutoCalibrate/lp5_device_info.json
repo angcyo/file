@@ -66,6 +66,7 @@
   "supportDoubleLight": true,
   "showNoCalibrateCrossPreview": true,
   "showNoCalibrateFocalDistance": true,
+  "showNoCalibrateGridPreview": true,
   "compensatePointList": [
     {
       "affectScopeX": 0.6,
