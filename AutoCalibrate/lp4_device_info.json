@@ -6,6 +6,7 @@
   "flipVertical": false,
   "compensate": true,
   "showNoCalibrateFocalDistance": true,
+  "showNoCalibrateGridPreview": true,
   "directionMap": {
     "l": "-x",
     "r": "+x",
