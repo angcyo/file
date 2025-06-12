@@ -1,0 +1,17 @@
+{
+  "createVerifyCode": {
+    "value": null,
+    "title": "验证",
+    "placeHolder": "请输入验证码",
+    "prompt": "请输入验证码之后继续操作!"
+  },
+  "deviceVersionConfig": [
+    {
+      "name": "LP1-Z",
+      "v": 150,
+      "n": "LP1-Z v1.5.0",
+      "d": "v1.5.0 更新内容:\n",
+      "r": "150~199"
+    }
+  ]
+}
